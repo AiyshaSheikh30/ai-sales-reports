@@ -1,0 +1,4742 @@
+[
+    {
+        "market": "Altura HOC 1st Floor Market",
+        "product": "Celsius Sparkling Watermelon 12oz",
+        "profit": 11.96,
+        "rank": 1
+    },
+    {
+        "market": "Altura HOC 1st Floor Market",
+        "product": "Celsius Sparkling Orange 12oz",
+        "profit": 8.97,
+        "rank": 2
+    },
+    {
+        "market": "Altura HOC 1st Floor Market",
+        "product": "Coke Zero 12oz",
+        "profit": 7.92,
+        "rank": 3
+    },
+    {
+        "market": "Altura HOC 1st Floor Market",
+        "product": "Monster 16oz",
+        "profit": 6.98,
+        "rank": 4
+    },
+    {
+        "market": "Altura HOC 1st Floor Market",
+        "product": "Cheetos Crunchy",
+        "profit": 6.76,
+        "rank": 5
+    },
+    {
+        "market": "Altura HOC 2nd Floor Market",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 5.98,
+        "rank": 1
+    },
+    {
+        "market": "Altura HOC 2nd Floor Market",
+        "product": "Crystal Geyser 16.9oz",
+        "profit": 4.5,
+        "rank": 2
+    },
+    {
+        "market": "Altura HOC 2nd Floor Market",
+        "product": "Dr Pepper 12oz",
+        "profit": 3.96,
+        "rank": 3
+    },
+    {
+        "market": "Altura HOC 2nd Floor Market",
+        "product": "Monster 16oz",
+        "profit": 2.99,
+        "rank": 4
+    },
+    {
+        "market": "Altura HOC 2nd Floor Market",
+        "product": "Peace Tea Georgia Peach 16oz",
+        "profit": 1.99,
+        "rank": 5
+    },
+    {
+        "market": "Anaheim Desert Inn and Suites",
+        "product": "Smart Water 1L",
+        "profit": 388.8,
+        "rank": 1
+    },
+    {
+        "market": "Anaheim Desert Inn and Suites",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 118.75,
+        "rank": 2
+    },
+    {
+        "market": "Anaheim Desert Inn and Suites",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 102.3,
+        "rank": 3
+    },
+    {
+        "market": "Anaheim Desert Inn and Suites",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 65.0,
+        "rank": 4
+    },
+    {
+        "market": "Anaheim Desert Inn and Suites",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 56.25,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 272.0,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel Anaheim",
+        "product": "Beer Bud Light Aluminum Can 16oz",
+        "profit": 170.81,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel Anaheim",
+        "product": "Troop Rum Mojito 200ml",
+        "profit": 137.75,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel Anaheim",
+        "product": "Beer Michelob Ultra 16oz Can",
+        "profit": 80.91,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel Anaheim",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 65.97,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel Chino Hills",
+        "product": "Smart Water 1L",
+        "profit": 392.0,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel Chino Hills",
+        "product": "Smart Water 20oz",
+        "profit": 94.52,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel Chino Hills",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 92.5,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel Chino Hills",
+        "product": "Wine Carolina Reserva Pinot Noir 375mL",
+        "profit": 80.0,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel Chino Hills",
+        "product": "Wine Allegretto Heart of the Vine 2020",
+        "profit": 75.0,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel Fountain Valley",
+        "product": "Smart Water 1L",
+        "profit": 420.0,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel Fountain Valley",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 84.0,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel Fountain Valley",
+        "product": "Fiji Water 16.9oz",
+        "profit": 33.0,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel Fountain Valley",
+        "product": "Smart Water 20oz",
+        "profit": 30.2,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel Fountain Valley",
+        "product": "Gatorade Lemon Lime 20oz",
+        "profit": 28.75,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel Manhattan Beach Hawthorne",
+        "product": "Smart Water 1L",
+        "profit": 112.5,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel Manhattan Beach Hawthorne",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 45.5,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel Manhattan Beach Hawthorne",
+        "product": "Coke Zero 20oz",
+        "profit": 25.5,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel Manhattan Beach Hawthorne",
+        "product": "FR SLB Triangle Tuna Salad Wheat",
+        "profit": 17.98,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel Manhattan Beach Hawthorne",
+        "product": "Gatorade Lemon Lime 20oz",
+        "profit": 17.25,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel Seal Beach",
+        "product": "Smart Water 1L",
+        "profit": 228.8,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel Seal Beach",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 49.5,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel Seal Beach",
+        "product": "Cheetos Crunchy",
+        "profit": 34.4,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel Seal Beach",
+        "product": "Fiji Water 16.9oz",
+        "profit": 33.0,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel Seal Beach",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 32.97,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Hotel and Spa Mission Viejo",
+        "product": "Smart Water 1L",
+        "profit": 252.8,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Hotel and Spa Mission Viejo",
+        "product": "Wine Allegretto Heart of the Vibe 2023",
+        "profit": 105.0,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Hotel and Spa Mission Viejo",
+        "product": "Beer Kona Big Wave Liquid Aloha Can 12oz",
+        "profit": 96.0,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Hotel and Spa Mission Viejo",
+        "product": "Dasani 20oz",
+        "profit": 72.22,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Hotel and Spa Mission Viejo",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 49.5,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Suites Mission Viejo - Lake Forest",
+        "product": "Smart Water 1L",
+        "profit": 184.0,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Suites Mission Viejo - Lake Forest",
+        "product": "Coke Zero 20oz",
+        "profit": 49.5,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Suites Mission Viejo - Lake Forest",
+        "product": "Smart Water 20oz",
+        "profit": 38.69,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Suites Mission Viejo - Lake Forest",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 33.75,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Suites Mission Viejo - Lake Forest",
+        "product": "Kettle Sea Salt Chips 2.0oz",
+        "profit": 31.5,
+        "rank": 5
+    },
+    {
+        "market": "Ayres Suites Yorba Linda",
+        "product": "Smart Water 1L",
+        "profit": 340.2,
+        "rank": 1
+    },
+    {
+        "market": "Ayres Suites Yorba Linda",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 58.5,
+        "rank": 2
+    },
+    {
+        "market": "Ayres Suites Yorba Linda",
+        "product": "Dasani 20oz",
+        "profit": 48.25,
+        "rank": 3
+    },
+    {
+        "market": "Ayres Suites Yorba Linda",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 40.8,
+        "rank": 4
+    },
+    {
+        "market": "Ayres Suites Yorba Linda",
+        "product": "Smart Water 20oz",
+        "profit": 33.24,
+        "rank": 5
+    },
+    {
+        "market": "BLVD Hotel & Spa",
+        "product": "Smart Water 1L",
+        "profit": 108.75,
+        "rank": 1
+    },
+    {
+        "market": "BLVD Hotel & Spa",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 80.94,
+        "rank": 2
+    },
+    {
+        "market": "BLVD Hotel & Spa",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 51.75,
+        "rank": 3
+    },
+    {
+        "market": "BLVD Hotel & Spa",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 36.0,
+        "rank": 4
+    },
+    {
+        "market": "BLVD Hotel & Spa",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 24.99,
+        "rank": 5
+    },
+    {
+        "market": "Baymont by Wyndham Monterey Park",
+        "product": "Starbucks Caramel Frappuccino RTD 9.5oz",
+        "profit": 31.5,
+        "rank": 1
+    },
+    {
+        "market": "Baymont by Wyndham Monterey Park",
+        "product": "Monster 16oz",
+        "profit": 26.45,
+        "rank": 2
+    },
+    {
+        "market": "Baymont by Wyndham Monterey Park",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 26.45,
+        "rank": 3
+    },
+    {
+        "market": "Baymont by Wyndham Monterey Park",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 4
+    },
+    {
+        "market": "Baymont by Wyndham Monterey Park",
+        "product": "Takis Fuego",
+        "profit": 22.5,
+        "rank": 5
+    },
+    {
+        "market": "Behr Cub Den Market",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 15.7,
+        "rank": 1
+    },
+    {
+        "market": "Behr Cub Den Market",
+        "product": "Coke Zero 12oz",
+        "profit": 13.53,
+        "rank": 2
+    },
+    {
+        "market": "Behr Cub Den Market",
+        "product": "Jack Links Original",
+        "profit": 13.05,
+        "rank": 3
+    },
+    {
+        "market": "Behr Cub Den Market",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 12.56,
+        "rank": 4
+    },
+    {
+        "market": "Behr Cub Den Market",
+        "product": "Wonderful Pistachios No Shell 2.5oz",
+        "profit": 11.68,
+        "rank": 5
+    },
+    {
+        "market": "Behr Garry Market",
+        "product": "FR SLB Multigrain Turkey & Bacon Club",
+        "profit": 21.0,
+        "rank": 1
+    },
+    {
+        "market": "Behr Garry Market",
+        "product": "FTY Double Cheeseburger 5oz",
+        "profit": 18.0,
+        "rank": 2
+    },
+    {
+        "market": "Behr Garry Market",
+        "product": "Monster 16oz",
+        "profit": 17.27,
+        "rank": 3
+    },
+    {
+        "market": "Behr Garry Market",
+        "product": "Snickers",
+        "profit": 11.76,
+        "rank": 4
+    },
+    {
+        "market": "Behr Garry Market",
+        "product": "Snapple Zero Sugar Peach Tea 16oz",
+        "profit": 11.28,
+        "rank": 5
+    },
+    {
+        "market": "Behr Killz Corner Market",
+        "product": "Vita Coco Pure Coconut Water 500ml",
+        "profit": 21.42,
+        "rank": 1
+    },
+    {
+        "market": "Behr Killz Corner Market",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 14.13,
+        "rank": 2
+    },
+    {
+        "market": "Behr Killz Corner Market",
+        "product": "Coke Zero 12oz",
+        "profit": 10.66,
+        "rank": 3
+    },
+    {
+        "market": "Behr Killz Corner Market",
+        "product": "Reeses Pieces Peanut Butter Cups",
+        "profit": 8.88,
+        "rank": 4
+    },
+    {
+        "market": "Behr Killz Corner Market",
+        "product": "Jack Links Teriyaki Beef Jerky 70 Cal",
+        "profit": 8.7,
+        "rank": 5
+    },
+    {
+        "market": "Behr Main Den 1st Market",
+        "product": "FR Snack Double & Cheese Cup",
+        "profit": 55.0,
+        "rank": 1
+    },
+    {
+        "market": "Behr Main Den 1st Market",
+        "product": "FR SLB Triangle PBJ White",
+        "profit": 40.0,
+        "rank": 2
+    },
+    {
+        "market": "Behr Main Den 1st Market",
+        "product": "FR SLB Salad Chicken Caesar",
+        "profit": 33.25,
+        "rank": 3
+    },
+    {
+        "market": "Behr Main Den 1st Market",
+        "product": "FR SLB Triangle Turkey Wheat",
+        "profit": 32.5,
+        "rank": 4
+    },
+    {
+        "market": "Behr Main Den 1st Market",
+        "product": "Coke Zero 12oz",
+        "profit": 31.57,
+        "rank": 5
+    },
+    {
+        "market": "Behr Midway Coatings Cantina Market",
+        "product": "5 HR Energy 1.93oz",
+        "profit": 15.39,
+        "rank": 1
+    },
+    {
+        "market": "Behr Midway Coatings Cantina Market",
+        "product": "SS Hummus & Friends Snack Box",
+        "profit": 15.0,
+        "rank": 2
+    },
+    {
+        "market": "Behr Midway Coatings Cantina Market",
+        "product": "Monster Low Carb 16oz",
+        "profit": 12.56,
+        "rank": 3
+    },
+    {
+        "market": "Behr Midway Coatings Cantina Market",
+        "product": "SS Kings Hawaiian Pretzel Bun Trio",
+        "profit": 10.0,
+        "rank": 4
+    },
+    {
+        "market": "Behr Midway Coatings Cantina Market",
+        "product": "FR Breakfast Muffin Sausage & Egg",
+        "profit": 8.25,
+        "rank": 5
+    },
+    {
+        "market": "Behr Standard Market",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 39.25,
+        "rank": 1
+    },
+    {
+        "market": "Behr Standard Market",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 37.68,
+        "rank": 2
+    },
+    {
+        "market": "Behr Standard Market",
+        "product": "Celsius Sparkling Orange 12oz",
+        "profit": 29.83,
+        "rank": 3
+    },
+    {
+        "market": "Behr Standard Market",
+        "product": "FR Snack Double & Cheese Cup",
+        "profit": 27.5,
+        "rank": 4
+    },
+    {
+        "market": "Behr Standard Market",
+        "product": "Doritos Nacho Cheese",
+        "profit": 27.44,
+        "rank": 5
+    },
+    {
+        "market": "Behr Yale Market",
+        "product": "Monster 16oz",
+        "profit": 20.41,
+        "rank": 1
+    },
+    {
+        "market": "Behr Yale Market",
+        "product": "Vita Coco Pure Coconut Water 500ml",
+        "profit": 19.04,
+        "rank": 2
+    },
+    {
+        "market": "Behr Yale Market",
+        "product": "FR Burrito Beef",
+        "profit": 16.25,
+        "rank": 3
+    },
+    {
+        "market": "Behr Yale Market",
+        "product": "FR SLB Croissant Ham",
+        "profit": 15.0,
+        "rank": 4
+    },
+    {
+        "market": "Behr Yale Market",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 14.13,
+        "rank": 5
+    },
+    {
+        "market": "Best Western - Glendora Market",
+        "product": "Peace Tea Georgia Peach 16oz",
+        "profit": 27.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western - Glendora Market",
+        "product": "Smart Water 20oz",
+        "profit": 16.36,
+        "rank": 2
+    },
+    {
+        "market": "Best Western - Glendora Market",
+        "product": "Dasani 20oz",
+        "profit": 13.44,
+        "rank": 3
+    },
+    {
+        "market": "Best Western - Glendora Market",
+        "product": "Monster 16oz",
+        "profit": 11.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western - Glendora Market",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 10.5,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Diamond Bar",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 24.99,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Diamond Bar",
+        "product": "Smart Water 1L",
+        "profit": 21.0,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Diamond Bar",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Diamond Bar",
+        "product": "Dasani 20oz",
+        "profit": 15.12,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Diamond Bar",
+        "product": "Smart Water 20oz",
+        "profit": 7.55,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Hesperia Victorville Suites",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 32.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Hesperia Victorville Suites",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Hesperia Victorville Suites",
+        "product": "Smart Water 20oz",
+        "profit": 25.17,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Hesperia Victorville Suites",
+        "product": "Coke Zero 20oz",
+        "profit": 17.0,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Hesperia Victorville Suites",
+        "product": "Pringles Sour Cream & Onion",
+        "profit": 16.0,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Norwalk Inn",
+        "product": "Smart Water 1L",
+        "profit": 77.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Norwalk Inn",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 12.75,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Norwalk Inn",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 10.5,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Norwalk Inn",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Norwalk Inn",
+        "product": "Coke Zero 20oz",
+        "profit": 8.5,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Oceanside Inn",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 10.99,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Oceanside Inn",
+        "product": "Doritos Nacho Cheese",
+        "profit": 7.5,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Oceanside Inn",
+        "product": "Smart Water 1L",
+        "profit": 7.0,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Oceanside Inn",
+        "product": "Nongshim Mild Chicken Noodle Soup",
+        "profit": 6.0,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Oceanside Inn",
+        "product": "Dasani 20oz",
+        "profit": 5.79,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Heritage Inn Rancho Cucamonga",
+        "product": "Smart Water 1L",
+        "profit": 305.2,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Heritage Inn Rancho Cucamonga",
+        "product": "Nongshim Mild Chicken Noodle Soup",
+        "profit": 48.0,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Heritage Inn Rancho Cucamonga",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 31.5,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Heritage Inn Rancho Cucamonga",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 31.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Heritage Inn Rancho Cucamonga",
+        "product": "Smart Water 20oz",
+        "profit": 30.2,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus LA Mid-Town Hotel",
+        "product": "Smart Water 1L",
+        "profit": 168.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus LA Mid-Town Hotel",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 31.25,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus LA Mid-Town Hotel",
+        "product": "Smart Water 20oz",
+        "profit": 26.38,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus LA Mid-Town Hotel",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 22.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus LA Mid-Town Hotel",
+        "product": "Dasani 20oz",
+        "profit": 21.8,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus LAX Market",
+        "product": "Smart Water 1L",
+        "profit": 56.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus LAX Market",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 21.98,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus LAX Market",
+        "product": "Stouffers Mac and Cheese",
+        "profit": 21.98,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus LAX Market",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 10.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus LAX Market",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Marina Shores Hotel",
+        "product": "Smart Water 1L",
+        "profit": 320.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Marina Shores Hotel",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 80.97,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Marina Shores Hotel",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 43.98,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Marina Shores Hotel",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 37.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Marina Shores Hotel",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 31.25,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Meridian Market",
+        "product": "Smart Water 1L",
+        "profit": 376.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Meridian Market",
+        "product": "Coke Zero 20oz",
+        "profit": 40.5,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Meridian Market",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 38.5,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Meridian Market",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 33.0,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Meridian Market",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 26.99,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Park Place Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 1054.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Park Place Anaheim",
+        "product": "Smart Water 20oz",
+        "profit": 162.61,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Park Place Anaheim",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 156.0,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Park Place Anaheim",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 108.0,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Park Place Anaheim",
+        "product": "Coke Zero 20oz",
+        "profit": 85.0,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Pavilions",
+        "product": "Smart Water 1L",
+        "profit": 140.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Pavilions",
+        "product": "Smart Water 20oz",
+        "profit": 28.94,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Pavilions",
+        "product": "Powerade Zero Mixed Berry 20oz",
+        "profit": 21.25,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Pavilions",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 21.25,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Pavilions",
+        "product": "Dasani 20oz",
+        "profit": 20.16,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Redondo Beach Inn",
+        "product": "Smart Water 1L",
+        "profit": 24.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Redondo Beach Inn",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 21.99,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Redondo Beach Inn",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 18.75,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Redondo Beach Inn",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 13.25,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Redondo Beach Inn",
+        "product": "Doritos Nacho Cheese",
+        "profit": 10.4,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Stovall's Inn",
+        "product": "Smart Water 1L",
+        "profit": 1115.2,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Stovall's Inn",
+        "product": "Dasani 20oz",
+        "profit": 172.6,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Stovall's Inn",
+        "product": "Smart Water 20oz",
+        "profit": 151.32,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Stovall's Inn",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 123.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Stovall's Inn",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 120.0,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus Thousand Oaks Inn",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 40.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus Thousand Oaks Inn",
+        "product": "Monster 16oz",
+        "profit": 38.5,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus Thousand Oaks Inn",
+        "product": "Smart Water 20oz",
+        "profit": 29.49,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus Thousand Oaks Inn",
+        "product": "Dunkin Donuts French Vanilla 13.7 oz",
+        "profit": 27.5,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus Thousand Oaks Inn",
+        "product": "Baskin Robbins Cookies N Cream Pint",
+        "profit": 25.5,
+        "rank": 5
+    },
+    {
+        "market": "Best Western Plus West Covina Inn",
+        "product": "Smart Water 1L",
+        "profit": 112.0,
+        "rank": 1
+    },
+    {
+        "market": "Best Western Plus West Covina Inn",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 32.97,
+        "rank": 2
+    },
+    {
+        "market": "Best Western Plus West Covina Inn",
+        "product": "Fiji Water 16.9oz",
+        "profit": 27.5,
+        "rank": 3
+    },
+    {
+        "market": "Best Western Plus West Covina Inn",
+        "product": "Core Power High Protein Shake Vanilla 14oz",
+        "profit": 26.0,
+        "rank": 4
+    },
+    {
+        "market": "Best Western Plus West Covina Inn",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 24.99,
+        "rank": 5
+    },
+    {
+        "market": "Bobrick Market",
+        "product": "Trader Joe's 1",
+        "profit": 167.72,
+        "rank": 1
+    },
+    {
+        "market": "Bobrick Market",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 30.0,
+        "rank": 2
+    },
+    {
+        "market": "Bobrick Market",
+        "product": "Coke Zero 12oz",
+        "profit": 28.0,
+        "rank": 3
+    },
+    {
+        "market": "Bobrick Market",
+        "product": "FR SLB Triangle Ham Wheat",
+        "profit": 27.45,
+        "rank": 4
+    },
+    {
+        "market": "Bobrick Market",
+        "product": "FR SLB Triangle Egg Salad Wheat",
+        "profit": 23.94,
+        "rank": 5
+    },
+    {
+        "market": "Cimarron Resort Condominium Association",
+        "product": "Smart Water 1L",
+        "profit": 14.0,
+        "rank": 1
+    },
+    {
+        "market": "Cimarron Resort Condominium Association",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 5.75,
+        "rank": 2
+    },
+    {
+        "market": "Cimarron Resort Condominium Association",
+        "product": "Monster 16oz",
+        "profit": 5.75,
+        "rank": 3
+    },
+    {
+        "market": "Cimarron Resort Condominium Association",
+        "product": "Milk Shamrock Lowfat 7oz",
+        "profit": 3.75,
+        "rank": 4
+    },
+    {
+        "market": "Cimarron Resort Condominium Association",
+        "product": "Minute Maid Orange Juice 12oz",
+        "profit": -25.69,
+        "rank": 5
+    },
+    {
+        "market": "City Express Rancho Cucamonga",
+        "product": "Smart Water 20oz",
+        "profit": 43.3,
+        "rank": 1
+    },
+    {
+        "market": "City Express Rancho Cucamonga",
+        "product": "Smart Water 1L",
+        "profit": 35.0,
+        "rank": 2
+    },
+    {
+        "market": "City Express Rancho Cucamonga",
+        "product": "Fiji Water 16.9oz",
+        "profit": 27.5,
+        "rank": 3
+    },
+    {
+        "market": "City Express Rancho Cucamonga",
+        "product": "Dasani 20oz",
+        "profit": 25.2,
+        "rank": 4
+    },
+    {
+        "market": "City Express Rancho Cucamonga",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 21.98,
+        "rank": 5
+    },
+    {
+        "market": "City24 Hotel- Little Italy Mission Hills",
+        "product": "Smart Water 1L",
+        "profit": 91.0,
+        "rank": 1
+    },
+    {
+        "market": "City24 Hotel- Little Italy Mission Hills",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 34.5,
+        "rank": 2
+    },
+    {
+        "market": "City24 Hotel- Little Italy Mission Hills",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 34.0,
+        "rank": 3
+    },
+    {
+        "market": "City24 Hotel- Little Italy Mission Hills",
+        "product": "Coke Zero 20oz",
+        "profit": 29.75,
+        "rank": 4
+    },
+    {
+        "market": "City24 Hotel- Little Italy Mission Hills",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 5
+    },
+    {
+        "market": "Clarion Hotel Market",
+        "product": "Smart Water 1L",
+        "profit": 901.0,
+        "rank": 1
+    },
+    {
+        "market": "Clarion Hotel Market",
+        "product": "Dasani 20oz",
+        "profit": 162.18,
+        "rank": 2
+    },
+    {
+        "market": "Clarion Hotel Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 144.0,
+        "rank": 3
+    },
+    {
+        "market": "Clarion Hotel Market",
+        "product": "Smart Water 20oz",
+        "profit": 124.22,
+        "rank": 4
+    },
+    {
+        "market": "Clarion Hotel Market",
+        "product": "Disney Plush Extra Large 25\" RG Red Minnie",
+        "profit": 119.97,
+        "rank": 5
+    },
+    {
+        "market": "Club Wyndham Harbour Lights",
+        "product": "Smart Water 1L",
+        "profit": 109.2,
+        "rank": 1
+    },
+    {
+        "market": "Club Wyndham Harbour Lights",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 13.6,
+        "rank": 2
+    },
+    {
+        "market": "Club Wyndham Harbour Lights",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 3
+    },
+    {
+        "market": "Club Wyndham Harbour Lights",
+        "product": "Sour Patch Kids",
+        "profit": 7.5,
+        "rank": 4
+    },
+    {
+        "market": "Club Wyndham Harbour Lights",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 6.9,
+        "rank": 5
+    },
+    {
+        "market": "Club Wyndham Oceanside Pier Resort",
+        "product": "Smart Water 1L",
+        "profit": 294.4,
+        "rank": 1
+    },
+    {
+        "market": "Club Wyndham Oceanside Pier Resort",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 75.0,
+        "rank": 2
+    },
+    {
+        "market": "Club Wyndham Oceanside Pier Resort",
+        "product": "Celsius Sparkling Orange 12oz",
+        "profit": 73.2,
+        "rank": 3
+    },
+    {
+        "market": "Club Wyndham Oceanside Pier Resort",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 49.5,
+        "rank": 4
+    },
+    {
+        "market": "Club Wyndham Oceanside Pier Resort",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 43.98,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn & Suites Near Universal N. Hollywood",
+        "product": "Smart Water 1L",
+        "profit": 203.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn & Suites Near Universal N. Hollywood",
+        "product": "Smart Water 20oz",
+        "profit": 22.65,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn & Suites Near Universal N. Hollywood",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 21.25,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn & Suites Near Universal N. Hollywood",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 21.25,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn & Suites Near Universal N. Hollywood",
+        "product": "Jack Links Teriyaki Beef Jerky 70 Cal",
+        "profit": 21.0,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn - Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 252.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn - Anaheim",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 62.97,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn - Anaheim",
+        "product": "Milk Shamrock Lowfat 7oz",
+        "profit": 48.75,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn - Anaheim",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 46.0,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn - Anaheim",
+        "product": "Disney Mug RG Mickey Red",
+        "profit": 41.98,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn - Encinitas Near Legoland",
+        "product": "Smart Water 1L",
+        "profit": 42.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn - Encinitas Near Legoland",
+        "product": "Jarritos Gummies 8oz",
+        "profit": 13.0,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn - Encinitas Near Legoland",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 12.75,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn - Encinitas Near Legoland",
+        "product": "Nongshim Mild Chicken Noodle Soup",
+        "profit": 12.0,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn - Encinitas Near Legoland",
+        "product": "OREO Mini Bite Size",
+        "profit": 11.25,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn - Gaslamp Convention Center",
+        "product": "Smart Water 1L",
+        "profit": 14.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn - Gaslamp Convention Center",
+        "product": "Pringles Sour Cream & Onion",
+        "profit": 12.0,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn - Gaslamp Convention Center",
+        "product": "Dasani 20oz",
+        "profit": 6.72,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn - Gaslamp Convention Center",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 6.5,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn - Gaslamp Convention Center",
+        "product": "Nongshim Spicy Shin Noodle Soup",
+        "profit": 6.0,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn - Huntington Beach",
+        "product": "Fiji Water 16.9oz",
+        "profit": 27.5,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn - Huntington Beach",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 26.25,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn - Huntington Beach",
+        "product": "Smart Water 20oz",
+        "profit": 23.91,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn - Huntington Beach",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 21.98,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn - Huntington Beach",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 17.0,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Inn - Moreno Valley",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Inn - Moreno Valley",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 21.25,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Inn - Moreno Valley",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Inn - Moreno Valley",
+        "product": "Dolly Madison Chocolate Cupcakes",
+        "profit": 15.0,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Inn - Moreno Valley",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 13.0,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Suites - San Clemente",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 46.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Suites - San Clemente",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 9.75,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Suites - San Clemente",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 8.5,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Suites - San Clemente",
+        "product": "Dasani 20oz",
+        "profit": 8.4,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Suites - San Clemente",
+        "product": "Otis Muffin Banana Nut",
+        "profit": 7.5,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Suites Barstow",
+        "product": "Smart Water 1L",
+        "profit": 63.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Suites Barstow",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 26.0,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Suites Barstow",
+        "product": "Fiji Water 16.9oz",
+        "profit": 23.0,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Suites Barstow",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 17.25,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Suites Barstow",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 15.75,
+        "rank": 5
+    },
+    {
+        "market": "Comfort Suites Oceanside Camp Pendleton",
+        "product": "Smart Water 1L",
+        "profit": 77.0,
+        "rank": 1
+    },
+    {
+        "market": "Comfort Suites Oceanside Camp Pendleton",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 48.3,
+        "rank": 2
+    },
+    {
+        "market": "Comfort Suites Oceanside Camp Pendleton",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 34.5,
+        "rank": 3
+    },
+    {
+        "market": "Comfort Suites Oceanside Camp Pendleton",
+        "product": "HK Anderson PB Pretzel Nuggets 2.5oz",
+        "profit": 29.75,
+        "rank": 4
+    },
+    {
+        "market": "Comfort Suites Oceanside Camp Pendleton",
+        "product": "Core Power High Protein Shake Vanilla 14oz",
+        "profit": 26.0,
+        "rank": 5
+    },
+    {
+        "market": "Courtyard Chino Hills",
+        "product": "Smart Water 1L",
+        "profit": 25.5,
+        "rank": 1
+    },
+    {
+        "market": "Courtyard Chino Hills",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 13.5,
+        "rank": 2
+    },
+    {
+        "market": "Courtyard Chino Hills",
+        "product": "Trolli Sour Brite Very Berry 5oz",
+        "profit": 13.5,
+        "rank": 3
+    },
+    {
+        "market": "Courtyard Chino Hills",
+        "product": "Vita Coco Pure Coconut Water 500ml",
+        "profit": 13.0,
+        "rank": 4
+    },
+    {
+        "market": "Courtyard Chino Hills",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 13.0,
+        "rank": 5
+    },
+    {
+        "market": "Crowne Plaza Costa Mesa Orange County",
+        "product": "Smart Water 1L",
+        "profit": 1020.0,
+        "rank": 1
+    },
+    {
+        "market": "Crowne Plaza Costa Mesa Orange County",
+        "product": "Smart Water 20oz",
+        "profit": 88.08,
+        "rank": 2
+    },
+    {
+        "market": "Crowne Plaza Costa Mesa Orange County",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 62.4,
+        "rank": 3
+    },
+    {
+        "market": "Crowne Plaza Costa Mesa Orange County",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 60.0,
+        "rank": 4
+    },
+    {
+        "market": "Crowne Plaza Costa Mesa Orange County",
+        "product": "Coke Zero 20oz",
+        "profit": 60.0,
+        "rank": 5
+    },
+    {
+        "market": "Crowne Plaza San Diego-Mission Valley",
+        "product": "Smart Water 1L",
+        "profit": 385.6,
+        "rank": 1
+    },
+    {
+        "market": "Crowne Plaza San Diego-Mission Valley",
+        "product": "Dunkin Donuts French Vanilla 13.7 oz",
+        "profit": 58.5,
+        "rank": 2
+    },
+    {
+        "market": "Crowne Plaza San Diego-Mission Valley",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 53.98,
+        "rank": 3
+    },
+    {
+        "market": "Crowne Plaza San Diego-Mission Valley",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 45.5,
+        "rank": 4
+    },
+    {
+        "market": "Crowne Plaza San Diego-Mission Valley",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 44.0,
+        "rank": 5
+    },
+    {
+        "market": "Crowne Plaza San Pedro",
+        "product": "Smart Water 1L",
+        "profit": 714.0,
+        "rank": 1
+    },
+    {
+        "market": "Crowne Plaza San Pedro",
+        "product": "Smart Water 20oz",
+        "profit": 151.32,
+        "rank": 2
+    },
+    {
+        "market": "Crowne Plaza San Pedro",
+        "product": "Coke Zero 20oz",
+        "profit": 115.0,
+        "rank": 3
+    },
+    {
+        "market": "Crowne Plaza San Pedro",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 92.0,
+        "rank": 4
+    },
+    {
+        "market": "Crowne Plaza San Pedro",
+        "product": "Dasani 20oz",
+        "profit": 85.76,
+        "rank": 5
+    },
+    {
+        "market": "Days Inn & Suites Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 49.0,
+        "rank": 1
+    },
+    {
+        "market": "Days Inn & Suites Anaheim",
+        "product": "Smart Water 20oz",
+        "profit": 41.53,
+        "rank": 2
+    },
+    {
+        "market": "Days Inn & Suites Anaheim",
+        "product": "Anker USB-C to Lightning 10ft Cable",
+        "profit": 25.99,
+        "rank": 3
+    },
+    {
+        "market": "Days Inn & Suites Anaheim",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 4
+    },
+    {
+        "market": "Days Inn & Suites Anaheim",
+        "product": "Monster 16oz",
+        "profit": 17.25,
+        "rank": 5
+    },
+    {
+        "market": "Del Sol Inn Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 256.0,
+        "rank": 1
+    },
+    {
+        "market": "Del Sol Inn Anaheim",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 77.0,
+        "rank": 2
+    },
+    {
+        "market": "Del Sol Inn Anaheim",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 60.0,
+        "rank": 3
+    },
+    {
+        "market": "Del Sol Inn Anaheim",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 50.0,
+        "rank": 4
+    },
+    {
+        "market": "Del Sol Inn Anaheim",
+        "product": "Monster 16oz",
+        "profit": 50.0,
+        "rank": 5
+    },
+    {
+        "market": "Desert Palms Market",
+        "product": "Smart Water 1L",
+        "profit": 484.5,
+        "rank": 1
+    },
+    {
+        "market": "Desert Palms Market",
+        "product": "Smart Water 20oz",
+        "profit": 85.82,
+        "rank": 2
+    },
+    {
+        "market": "Desert Palms Market",
+        "product": "Coke Zero 20oz",
+        "profit": 70.0,
+        "rank": 3
+    },
+    {
+        "market": "Desert Palms Market",
+        "product": "Dasani 20oz",
+        "profit": 69.96,
+        "rank": 4
+    },
+    {
+        "market": "Desert Palms Market",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 56.25,
+        "rank": 5
+    },
+    {
+        "market": "Dolphin's Cove",
+        "product": "Smart Water 1L",
+        "profit": 183.4,
+        "rank": 1
+    },
+    {
+        "market": "Dolphin's Cove",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 47.25,
+        "rank": 2
+    },
+    {
+        "market": "Dolphin's Cove",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 23.0,
+        "rank": 3
+    },
+    {
+        "market": "Dolphin's Cove",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 21.0,
+        "rank": 4
+    },
+    {
+        "market": "Dolphin's Cove",
+        "product": "Cheetos Crunchy",
+        "profit": 18.75,
+        "rank": 5
+    },
+    {
+        "market": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "product": "Smart Water 1L",
+        "profit": 280.0,
+        "rank": 1
+    },
+    {
+        "market": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 93.5,
+        "rank": 2
+    },
+    {
+        "market": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 51.75,
+        "rank": 3
+    },
+    {
+        "market": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "product": "Powerade Lemon Lime 20oz",
+        "profit": 48.0,
+        "rank": 4
+    },
+    {
+        "market": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 43.75,
+        "rank": 5
+    },
+    {
+        "market": "DoubleTree by Hilton Pomona",
+        "product": "Smart Water 1L",
+        "profit": 392.0,
+        "rank": 1
+    },
+    {
+        "market": "DoubleTree by Hilton Pomona",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 80.97,
+        "rank": 2
+    },
+    {
+        "market": "DoubleTree by Hilton Pomona",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 70.0,
+        "rank": 3
+    },
+    {
+        "market": "DoubleTree by Hilton Pomona",
+        "product": "Celsius Sparkling Orange 12oz",
+        "profit": 66.0,
+        "rank": 4
+    },
+    {
+        "market": "DoubleTree by Hilton Pomona",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 65.97,
+        "rank": 5
+    },
+    {
+        "market": "Downey Inn",
+        "product": "Smart Water 1L",
+        "profit": 16.0,
+        "rank": 1
+    },
+    {
+        "market": "Downey Inn",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 4.5,
+        "rank": 2
+    },
+    {
+        "market": "Downey Inn",
+        "product": "Cheetos Crunchy",
+        "profit": 4.0,
+        "rank": 3
+    },
+    {
+        "market": "Downey Inn",
+        "product": "Smartfood White Cheddar Popcorn",
+        "profit": 4.0,
+        "rank": 4
+    },
+    {
+        "market": "Downey Inn",
+        "product": "Crest Tooth Paste and Brush",
+        "profit": 2.48,
+        "rank": 5
+    },
+    {
+        "market": "E-Central Downtown Los Angeles Hotel",
+        "product": "Smart Water 1L",
+        "profit": 387.0,
+        "rank": 1
+    },
+    {
+        "market": "E-Central Downtown Los Angeles Hotel",
+        "product": "Smart Water 20oz",
+        "profit": 77.24,
+        "rank": 2
+    },
+    {
+        "market": "E-Central Downtown Los Angeles Hotel",
+        "product": "Dasani 20oz",
+        "profit": 66.24,
+        "rank": 3
+    },
+    {
+        "market": "E-Central Downtown Los Angeles Hotel",
+        "product": "Fiji Water 16.9oz",
+        "profit": 60.75,
+        "rank": 4
+    },
+    {
+        "market": "E-Central Downtown Los Angeles Hotel",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 55.98,
+        "rank": 5
+    },
+    {
+        "market": "Embassy Suites by Hilton Anaheim North",
+        "product": "Smart Water 1L",
+        "profit": 821.1,
+        "rank": 1
+    },
+    {
+        "market": "Embassy Suites by Hilton Anaheim North",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 168.0,
+        "rank": 2
+    },
+    {
+        "market": "Embassy Suites by Hilton Anaheim North",
+        "product": "Cheetos Flamin Hot 2.75oz",
+        "profit": 166.25,
+        "rank": 3
+    },
+    {
+        "market": "Embassy Suites by Hilton Anaheim North",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 153.4,
+        "rank": 4
+    },
+    {
+        "market": "Embassy Suites by Hilton Anaheim North",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 140.4,
+        "rank": 5
+    },
+    {
+        "market": "Embassy Suites by Hilton Palm Desert",
+        "product": "Smart Water 1L",
+        "profit": 104.0,
+        "rank": 1
+    },
+    {
+        "market": "Embassy Suites by Hilton Palm Desert",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 44.0,
+        "rank": 2
+    },
+    {
+        "market": "Embassy Suites by Hilton Palm Desert",
+        "product": "Cheetos Crunchy 2.75oz",
+        "profit": 30.0,
+        "rank": 3
+    },
+    {
+        "market": "Embassy Suites by Hilton Palm Desert",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 27.5,
+        "rank": 4
+    },
+    {
+        "market": "Embassy Suites by Hilton Palm Desert",
+        "product": "Coke Zero 20oz",
+        "profit": 27.0,
+        "rank": 5
+    },
+    {
+        "market": "Executive Residency by Best Western Victorville",
+        "product": "Sanders Mini Dark Chocolate Sea Salt Caramels 3.75oz",
+        "profit": 24.0,
+        "rank": 1
+    },
+    {
+        "market": "Executive Residency by Best Western Victorville",
+        "product": "Smart Water 1L",
+        "profit": 21.0,
+        "rank": 2
+    },
+    {
+        "market": "Executive Residency by Best Western Victorville",
+        "product": "Snickers",
+        "profit": 18.75,
+        "rank": 3
+    },
+    {
+        "market": "Executive Residency by Best Western Victorville",
+        "product": "Powerade Lemon Lime 20oz",
+        "profit": 8.5,
+        "rank": 4
+    },
+    {
+        "market": "Executive Residency by Best Western Victorville",
+        "product": "Coke Zero 20oz",
+        "profit": 8.5,
+        "rank": 5
+    },
+    {
+        "market": "FFI - Moorpark Market",
+        "product": "Fiji Water 16.9oz",
+        "profit": 80.0,
+        "rank": 1
+    },
+    {
+        "market": "FFI - Moorpark Market",
+        "product": "Celsius Sparkling Watermelon 12oz",
+        "profit": 44.0,
+        "rank": 2
+    },
+    {
+        "market": "FFI - Moorpark Market",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 40.0,
+        "rank": 3
+    },
+    {
+        "market": "FFI - Moorpark Market",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 39.0,
+        "rank": 4
+    },
+    {
+        "market": "FFI - Moorpark Market",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 34.5,
+        "rank": 5
+    },
+    {
+        "market": "Fairfield Inn Los Alamitos Market",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 27.5,
+        "rank": 1
+    },
+    {
+        "market": "Fairfield Inn Los Alamitos Market",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 2
+    },
+    {
+        "market": "Fairfield Inn Los Alamitos Market",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 25.0,
+        "rank": 3
+    },
+    {
+        "market": "Fairfield Inn Los Alamitos Market",
+        "product": "Starry 20oz",
+        "profit": 20.0,
+        "rank": 4
+    },
+    {
+        "market": "Fairfield Inn Los Alamitos Market",
+        "product": "Smartfood White Cheddar 1.75oz",
+        "profit": 20.0,
+        "rank": 5
+    },
+    {
+        "market": "Fairfield Inn/TownePlace Suites Barstow",
+        "product": "Life Water Premium 1L",
+        "profit": 252.0,
+        "rank": 1
+    },
+    {
+        "market": "Fairfield Inn/TownePlace Suites Barstow",
+        "product": "Fiji Water 16.9oz",
+        "profit": 60.0,
+        "rank": 2
+    },
+    {
+        "market": "Fairfield Inn/TownePlace Suites Barstow",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 56.0,
+        "rank": 3
+    },
+    {
+        "market": "Fairfield Inn/TownePlace Suites Barstow",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 45.0,
+        "rank": 4
+    },
+    {
+        "market": "Fairfield Inn/TownePlace Suites Barstow",
+        "product": "Dr Pepper Zero 20oz",
+        "profit": 31.5,
+        "rank": 5
+    },
+    {
+        "market": "Fairfield by Marriott Anaheim North-Buena Park",
+        "product": "Life Water Premium 1L",
+        "profit": 133.0,
+        "rank": 1
+    },
+    {
+        "market": "Fairfield by Marriott Anaheim North-Buena Park",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 64.95,
+        "rank": 2
+    },
+    {
+        "market": "Fairfield by Marriott Anaheim North-Buena Park",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 51.0,
+        "rank": 3
+    },
+    {
+        "market": "Fairfield by Marriott Anaheim North-Buena Park",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 42.0,
+        "rank": 4
+    },
+    {
+        "market": "Fairfield by Marriott Anaheim North-Buena Park",
+        "product": "Gatorade Lemon Lime 20oz",
+        "profit": 37.95,
+        "rank": 5
+    },
+    {
+        "market": "Fairfield by Marriott West Covina",
+        "product": "Life Water Premium 1L",
+        "profit": 161.0,
+        "rank": 1
+    },
+    {
+        "market": "Fairfield by Marriott West Covina",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 62.97,
+        "rank": 2
+    },
+    {
+        "market": "Fairfield by Marriott West Covina",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 36.75,
+        "rank": 3
+    },
+    {
+        "market": "Fairfield by Marriott West Covina",
+        "product": "Pepsi Zero Sugar 20oz",
+        "profit": 34.0,
+        "rank": 4
+    },
+    {
+        "market": "Fairfield by Marriott West Covina",
+        "product": "Albanese Gummi Bears 12 Flavor - 3.5oz",
+        "profit": 31.5,
+        "rank": 5
+    },
+    {
+        "market": "First Service Residential HQ Market",
+        "product": "FR SLB Triangle Tuna Salad Wheat",
+        "profit": 35.91,
+        "rank": 1
+    },
+    {
+        "market": "First Service Residential HQ Market",
+        "product": "Hillshire Italian Dry Salame",
+        "profit": 34.11,
+        "rank": 2
+    },
+    {
+        "market": "First Service Residential HQ Market",
+        "product": "Hillshire Genoa Salame",
+        "profit": 22.74,
+        "rank": 3
+    },
+    {
+        "market": "First Service Residential HQ Market",
+        "product": "Snapple Zero Sugar Peach Tea 16oz",
+        "profit": 16.73,
+        "rank": 4
+    },
+    {
+        "market": "First Service Residential HQ Market",
+        "product": "FR Breakfast Muffin Sausage & Egg",
+        "profit": 16.47,
+        "rank": 5
+    },
+    {
+        "market": "First Service Residential Shared Services Market",
+        "product": "Nature's Bakery Fig Bar Blueberry",
+        "profit": 4.0,
+        "rank": 1
+    },
+    {
+        "market": "First Service Residential Shared Services Market",
+        "product": "Jack Links Original",
+        "profit": 3.98,
+        "rank": 2
+    },
+    {
+        "market": "First Service Residential Shared Services Market",
+        "product": "Jack Links Teriyaki Beef Jerky 70 Cal",
+        "profit": 3.98,
+        "rank": 3
+    },
+    {
+        "market": "First Service Residential Shared Services Market",
+        "product": "Hillshire Italian Dry Salame",
+        "profit": 3.75,
+        "rank": 4
+    },
+    {
+        "market": "First Service Residential Shared Services Market",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 3.56,
+        "rank": 5
+    },
+    {
+        "market": "Four Points Sheraton - Ventura",
+        "product": "Life Water Premium 1L",
+        "profit": 105.0,
+        "rank": 1
+    },
+    {
+        "market": "Four Points Sheraton - Ventura",
+        "product": "Doritos Cool Ranch",
+        "profit": 41.25,
+        "rank": 2
+    },
+    {
+        "market": "Four Points Sheraton - Ventura",
+        "product": "Monster 16oz",
+        "profit": 40.25,
+        "rank": 3
+    },
+    {
+        "market": "Four Points Sheraton - Ventura",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 36.75,
+        "rank": 4
+    },
+    {
+        "market": "Four Points Sheraton - Ventura",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 28.75,
+        "rank": 5
+    },
+    {
+        "market": "HIE - Manchester Market",
+        "product": "Smart Water 1L",
+        "profit": 544.0,
+        "rank": 1
+    },
+    {
+        "market": "HIE - Manchester Market",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 182.0,
+        "rank": 2
+    },
+    {
+        "market": "HIE - Manchester Market",
+        "product": "Dasani 20oz",
+        "profit": 108.12,
+        "rank": 3
+    },
+    {
+        "market": "HIE - Manchester Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 78.0,
+        "rank": 4
+    },
+    {
+        "market": "HIE - Manchester Market",
+        "product": "Smart Water 20oz",
+        "profit": 70.01,
+        "rank": 5
+    },
+    {
+        "market": "HIE - Twentynine Palms Market",
+        "product": "Smart Water 1L",
+        "profit": 221.0,
+        "rank": 1
+    },
+    {
+        "market": "HIE - Twentynine Palms Market",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 39.96,
+        "rank": 2
+    },
+    {
+        "market": "HIE - Twentynine Palms Market",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 27.5,
+        "rank": 3
+    },
+    {
+        "market": "HIE - Twentynine Palms Market",
+        "product": "Peace Tea Razzleberry 16oz",
+        "profit": 22.5,
+        "rank": 4
+    },
+    {
+        "market": "HIE - Twentynine Palms Market",
+        "product": "Fritos Chili Cheese Chips",
+        "profit": 21.0,
+        "rank": 5
+    },
+    {
+        "market": "Hampton Inn & Suites Barstow",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 34.5,
+        "rank": 1
+    },
+    {
+        "market": "Hampton Inn & Suites Barstow",
+        "product": "Miss Vickies Sea Salt XVL 1.875oz",
+        "profit": 17.25,
+        "rank": 2
+    },
+    {
+        "market": "Hampton Inn & Suites Barstow",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 17.0,
+        "rank": 3
+    },
+    {
+        "market": "Hampton Inn & Suites Barstow",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 15.75,
+        "rank": 4
+    },
+    {
+        "market": "Hampton Inn & Suites Barstow",
+        "product": "Smart Water 1L",
+        "profit": 14.0,
+        "rank": 5
+    },
+    {
+        "market": "Hawthorn Suites by Wyndham Victorville Market",
+        "product": "Smart Water 1L",
+        "profit": 77.0,
+        "rank": 1
+    },
+    {
+        "market": "Hawthorn Suites by Wyndham Victorville Market",
+        "product": "Gatorade Lemon Lime 20oz",
+        "profit": 17.25,
+        "rank": 2
+    },
+    {
+        "market": "Hawthorn Suites by Wyndham Victorville Market",
+        "product": "Smart Water 20oz",
+        "profit": 12.58,
+        "rank": 3
+    },
+    {
+        "market": "Hawthorn Suites by Wyndham Victorville Market",
+        "product": "Sour Patch Kids Watermelon",
+        "profit": 11.25,
+        "rank": 4
+    },
+    {
+        "market": "Hawthorn Suites by Wyndham Victorville Market",
+        "product": "Dr Pepper Zero 20oz",
+        "profit": 8.5,
+        "rank": 5
+    },
+    {
+        "market": "Hilton Garden Inn-Home2 Suites Anaheim Resort",
+        "product": "Smart Water 1L",
+        "profit": 1559.75,
+        "rank": 1
+    },
+    {
+        "market": "Hilton Garden Inn-Home2 Suites Anaheim Resort",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 299.0,
+        "rank": 2
+    },
+    {
+        "market": "Hilton Garden Inn-Home2 Suites Anaheim Resort",
+        "product": "Fairlife Chocolate Milk 14oz",
+        "profit": 228.0,
+        "rank": 3
+    },
+    {
+        "market": "Hilton Garden Inn-Home2 Suites Anaheim Resort",
+        "product": "Smart Water 20oz",
+        "profit": 189.71,
+        "rank": 4
+    },
+    {
+        "market": "Hilton Garden Inn-Home2 Suites Anaheim Resort",
+        "product": "Milk Shamrock Whole White 12oz",
+        "profit": 185.0,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn & Suites Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 2210.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn & Suites Anaheim",
+        "product": "Dasani 20oz",
+        "profit": 193.98,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn & Suites Anaheim",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 192.0,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn & Suites Anaheim",
+        "product": "Smart Water 20oz",
+        "profit": 182.94,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn & Suites Anaheim",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 175.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn & Suites Barstow",
+        "product": "Smart Water 1L",
+        "profit": 98.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn & Suites Barstow",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 25.98,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn & Suites Barstow",
+        "product": "Fiji Water 16.9oz",
+        "profit": 22.0,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn & Suites Barstow",
+        "product": "Digiorno Four Cheese Pizza",
+        "profit": 21.98,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn & Suites Barstow",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 17.25,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Diamond Bar-Pomona",
+        "product": "Smart Water 1L",
+        "profit": 200.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Diamond Bar-Pomona",
+        "product": "Fiji Water 16.9oz",
+        "profit": 42.0,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Diamond Bar-Pomona",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 26.99,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Diamond Bar-Pomona",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 25.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Diamond Bar-Pomona",
+        "product": "Doritos Nacho Cheese",
+        "profit": 24.0,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn El Monte",
+        "product": "Smart Water 1L",
+        "profit": 259.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn El Monte",
+        "product": "Core Power High Protein Shake Vanilla 14oz",
+        "profit": 45.5,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn El Monte",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 40.25,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn El Monte",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 40.25,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn El Monte",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 38.97,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites Barstow",
+        "product": "Smart Water 1L",
+        "profit": 91.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites Barstow",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 21.98,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites Barstow",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 21.0,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites Barstow",
+        "product": "Otis Muffin Chocolate Chip",
+        "profit": 15.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites Barstow",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 12.99,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites Chatsworth",
+        "product": "Smart Water 1L",
+        "profit": 187.6,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites Chatsworth",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 71.94,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites Chatsworth",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 59.94,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites Chatsworth",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 30.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites Chatsworth",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 26.25,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites Corona",
+        "product": "Smart Water 1L",
+        "profit": 203.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites Corona",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 32.97,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites Corona",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 31.5,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites Corona",
+        "product": "Snickers",
+        "profit": 30.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites Corona",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 29.75,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites Hesperia Market",
+        "product": "Smart Water 1L",
+        "profit": 70.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites Hesperia Market",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 38.97,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites Hesperia Market",
+        "product": "Coke Zero 20oz",
+        "profit": 25.5,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites Hesperia Market",
+        "product": "Razor",
+        "profit": 15.75,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites Hesperia Market",
+        "product": "Dasani 20oz",
+        "profit": 15.12,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites San Dimas",
+        "product": "Smart Water 1L",
+        "profit": 70.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites San Dimas",
+        "product": "Core Power High Protein Shake Vanilla 14oz",
+        "profit": 32.5,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites San Dimas",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 21.25,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites San Dimas",
+        "product": "Snickers",
+        "profit": 18.75,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites San Dimas",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 17.25,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express & Suites Ventura",
+        "product": "Smart Water 1L",
+        "profit": 169.6,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express & Suites Ventura",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 82.5,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express & Suites Ventura",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 45.0,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express & Suites Ventura",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 33.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express & Suites Ventura",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 32.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express - Lake Forest Market",
+        "product": "Powerade Lemon Lime 20oz",
+        "profit": 12.75,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express - Lake Forest Market",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 12.75,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express - Lake Forest Market",
+        "product": "Smart Water 20oz",
+        "profit": 11.33,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express - Lake Forest Market",
+        "product": "Takis Fuego",
+        "profit": 7.5,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express - Lake Forest Market",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 7.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express Pasadena Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 36.75,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express Pasadena Market",
+        "product": "Dasani 20oz",
+        "profit": 30.24,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express Pasadena Market",
+        "product": "Smart Water 20oz",
+        "profit": 28.94,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express Pasadena Market",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 25.5,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express Pasadena Market",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 25.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express Port Hueneme",
+        "product": "Smart Water 1L",
+        "profit": 42.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express Port Hueneme",
+        "product": "Monster 16oz",
+        "profit": 40.25,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express Port Hueneme",
+        "product": "Smart Water 20oz",
+        "profit": 36.5,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express Port Hueneme",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 26.25,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express Port Hueneme",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 25.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Express San Clemente",
+        "product": "Smart Water 20oz",
+        "profit": 64.18,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Express San Clemente",
+        "product": "Dasani 20oz",
+        "profit": 54.04,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Express San Clemente",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 51.75,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Express San Clemente",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 42.5,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Express San Clemente",
+        "product": "Powerade Lemon Lime 20oz",
+        "profit": 34.0,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Hotel & Suites Monterey Park",
+        "product": "Smart Water 1L",
+        "profit": 428.8,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Hotel & Suites Monterey Park",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 45.0,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Hotel & Suites Monterey Park",
+        "product": "Dasani 20oz",
+        "profit": 34.88,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Hotel & Suites Monterey Park",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 30.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Hotel & Suites Monterey Park",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 27.5,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Oceanside Camp Pendleton Area",
+        "product": "Smart Water 1L",
+        "profit": 123.2,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Oceanside Camp Pendleton Area",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 41.98,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Oceanside Camp Pendleton Area",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Oceanside Camp Pendleton Area",
+        "product": "Dunkin Donuts Mocha 13.7oz",
+        "profit": 23.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Oceanside Camp Pendleton Area",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 15.75,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Ontario Airport Market",
+        "product": "Smart Water 20oz",
+        "profit": 138.92,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Ontario Airport Market",
+        "product": "Smart Water 1L",
+        "profit": 112.0,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Ontario Airport Market",
+        "product": "Dasani 20oz",
+        "profit": 106.82,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Ontario Airport Market",
+        "product": "Fiji Water 16.9oz",
+        "profit": 90.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Ontario Airport Market",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 70.17,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Oxnard-Ventura",
+        "product": "Smart Water 1L",
+        "profit": 169.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Oxnard-Ventura",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 55.0,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Oxnard-Ventura",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 48.0,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Oxnard-Ventura",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 45.0,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Oxnard-Ventura",
+        "product": "Powerade Mountain Berry Blast 20oz",
+        "profit": 40.0,
+        "rank": 5
+    },
+    {
+        "market": "Holiday Inn Santa Ana",
+        "product": "Smart Water 1L",
+        "profit": 256.0,
+        "rank": 1
+    },
+    {
+        "market": "Holiday Inn Santa Ana",
+        "product": "Hillshire Genoa Salame",
+        "profit": 31.25,
+        "rank": 2
+    },
+    {
+        "market": "Holiday Inn Santa Ana",
+        "product": "Dasani 20oz",
+        "profit": 30.52,
+        "rank": 3
+    },
+    {
+        "market": "Holiday Inn Santa Ana",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 26.99,
+        "rank": 4
+    },
+    {
+        "market": "Holiday Inn Santa Ana",
+        "product": "Smart Water 20oz",
+        "profit": 24.62,
+        "rank": 5
+    },
+    {
+        "market": "Homewood Suites by Hilton Carlsbad",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 64.95,
+        "rank": 1
+    },
+    {
+        "market": "Homewood Suites by Hilton Carlsbad",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 63.25,
+        "rank": 2
+    },
+    {
+        "market": "Homewood Suites by Hilton Carlsbad",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 43.96,
+        "rank": 3
+    },
+    {
+        "market": "Homewood Suites by Hilton Carlsbad",
+        "product": "Coke Zero 20oz",
+        "profit": 38.25,
+        "rank": 4
+    },
+    {
+        "market": "Homewood Suites by Hilton Carlsbad",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 31.5,
+        "rank": 5
+    },
+    {
+        "market": "Hotel Dena",
+        "product": "Life Water Premium 1L",
+        "profit": 513.0,
+        "rank": 1
+    },
+    {
+        "market": "Hotel Dena",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 168.0,
+        "rank": 2
+    },
+    {
+        "market": "Hotel Dena",
+        "product": "Aquafina 20oz",
+        "profit": 150.25,
+        "rank": 3
+    },
+    {
+        "market": "Hotel Dena",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 138.0,
+        "rank": 4
+    },
+    {
+        "market": "Hotel Dena",
+        "product": "Smartfood White Cheddar 1.75oz",
+        "profit": 97.75,
+        "rank": 5
+    },
+    {
+        "market": "Hyatt House Los Angeles-LAX-Manhattan Beach",
+        "product": "Life Water Premium 1L",
+        "profit": 221.0,
+        "rank": 1
+    },
+    {
+        "market": "Hyatt House Los Angeles-LAX-Manhattan Beach",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 45.5,
+        "rank": 2
+    },
+    {
+        "market": "Hyatt House Los Angeles-LAX-Manhattan Beach",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 32.5,
+        "rank": 3
+    },
+    {
+        "market": "Hyatt House Los Angeles-LAX-Manhattan Beach",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 32.0,
+        "rank": 4
+    },
+    {
+        "market": "Hyatt House Los Angeles-LAX-Manhattan Beach",
+        "product": "Doritos Nacho Cheese 2.5oz",
+        "profit": 22.5,
+        "rank": 5
+    },
+    {
+        "market": "Hyatt Place Pasadena",
+        "product": "Proud Source Alkaline Spring Water 750ml",
+        "profit": 424.0,
+        "rank": 1
+    },
+    {
+        "market": "Hyatt Place Pasadena",
+        "product": "Aquafina Aluminum Bottle 16oz",
+        "profit": 175.0,
+        "rank": 2
+    },
+    {
+        "market": "Hyatt Place Pasadena",
+        "product": "FR SLB Triangle Turkey Wheat",
+        "profit": 80.91,
+        "rank": 3
+    },
+    {
+        "market": "Hyatt Place Pasadena",
+        "product": "FR SLB Triangle Club Wheat",
+        "profit": 59.33,
+        "rank": 4
+    },
+    {
+        "market": "Hyatt Place Pasadena",
+        "product": "Pepsi 16oz Can",
+        "profit": 55.0,
+        "rank": 5
+    },
+    {
+        "market": "Hyatt Place San Diego Vista-Carlsbad",
+        "product": "Life Water Premium 1L",
+        "profit": 160.0,
+        "rank": 1
+    },
+    {
+        "market": "Hyatt Place San Diego Vista-Carlsbad",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 45.0,
+        "rank": 2
+    },
+    {
+        "market": "Hyatt Place San Diego Vista-Carlsbad",
+        "product": "Hillshire Genoa Salame",
+        "profit": 37.5,
+        "rank": 3
+    },
+    {
+        "market": "Hyatt Place San Diego Vista-Carlsbad",
+        "product": "Hillshire Italian Dry Salame",
+        "profit": 37.5,
+        "rank": 4
+    },
+    {
+        "market": "Hyatt Place San Diego Vista-Carlsbad",
+        "product": "Rold Gold Pretzels Thins Original 3.5oz",
+        "profit": 33.6,
+        "rank": 5
+    },
+    {
+        "market": "Hyatt Regency Los Angeles International Airport",
+        "product": "Life Water Premium 1L",
+        "profit": 440.0,
+        "rank": 1
+    },
+    {
+        "market": "Hyatt Regency Los Angeles International Airport",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 138.0,
+        "rank": 2
+    },
+    {
+        "market": "Hyatt Regency Los Angeles International Airport",
+        "product": "Pepsi Zero Sugar 20oz",
+        "profit": 132.0,
+        "rank": 3
+    },
+    {
+        "market": "Hyatt Regency Los Angeles International Airport",
+        "product": "FR SLB Salad Chicken Caesar",
+        "profit": 131.92,
+        "rank": 4
+    },
+    {
+        "market": "Hyatt Regency Los Angeles International Airport",
+        "product": "Smartfood White Cheddar 1.75oz",
+        "profit": 117.0,
+        "rank": 5
+    },
+    {
+        "market": "Inn at the Park",
+        "product": "Smart Water 1L",
+        "profit": 35.0,
+        "rank": 1
+    },
+    {
+        "market": "Inn at the Park",
+        "product": "Pringles Original",
+        "profit": 12.0,
+        "rank": 2
+    },
+    {
+        "market": "Inn at the Park",
+        "product": "Nongshim Hot and Spicy Noodle Soup",
+        "profit": 12.0,
+        "rank": 3
+    },
+    {
+        "market": "Inn at the Park",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 11.5,
+        "rank": 4
+    },
+    {
+        "market": "Inn at the Park",
+        "product": "Sweet Serenity Chocolate Chip Cookies",
+        "profit": 11.25,
+        "rank": 5
+    },
+    {
+        "market": "Kings Inn Anaheim Market",
+        "product": "Smart Water 1L",
+        "profit": 504.0,
+        "rank": 1
+    },
+    {
+        "market": "Kings Inn Anaheim Market",
+        "product": "Smart Water 20oz",
+        "profit": 54.51,
+        "rank": 2
+    },
+    {
+        "market": "Kings Inn Anaheim Market",
+        "product": "Dasani 20oz",
+        "profit": 54.5,
+        "rank": 3
+    },
+    {
+        "market": "Kings Inn Anaheim Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 44.0,
+        "rank": 4
+    },
+    {
+        "market": "Kings Inn Anaheim Market",
+        "product": "Fiji Water 16.9oz",
+        "profit": 42.0,
+        "rank": 5
+    },
+    {
+        "market": "La Quinta Inn & Suites Pomona",
+        "product": "Smart Water 1L",
+        "profit": 195.0,
+        "rank": 1
+    },
+    {
+        "market": "La Quinta Inn & Suites Pomona",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 42.0,
+        "rank": 2
+    },
+    {
+        "market": "La Quinta Inn & Suites Pomona",
+        "product": "Nongshim Spicy Shin Noodle Soup",
+        "profit": 40.0,
+        "rank": 3
+    },
+    {
+        "market": "La Quinta Inn & Suites Pomona",
+        "product": "Jack Links Teriyaki Beef Jerky 70 Cal",
+        "profit": 40.0,
+        "rank": 4
+    },
+    {
+        "market": "La Quinta Inn & Suites Pomona",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 36.8,
+        "rank": 5
+    },
+    {
+        "market": "La Quinta Inn and Suites La Habra",
+        "product": "Fiji Water 16.9oz",
+        "profit": 30.8,
+        "rank": 1
+    },
+    {
+        "market": "La Quinta Inn and Suites La Habra",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 28.75,
+        "rank": 2
+    },
+    {
+        "market": "La Quinta Inn and Suites La Habra",
+        "product": "Smart Water 20oz",
+        "profit": 27.02,
+        "rank": 3
+    },
+    {
+        "market": "La Quinta Inn and Suites La Habra",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 20.25,
+        "rank": 4
+    },
+    {
+        "market": "La Quinta Inn and Suites La Habra",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 19.5,
+        "rank": 5
+    },
+    {
+        "market": "Lincoln Hotel Monterey Park",
+        "product": "Smart Water 1L",
+        "profit": 70.0,
+        "rank": 1
+    },
+    {
+        "market": "Lincoln Hotel Monterey Park",
+        "product": "Coke Zero 20oz",
+        "profit": 17.0,
+        "rank": 2
+    },
+    {
+        "market": "Lincoln Hotel Monterey Park",
+        "product": "Starbucks Caramel Frappuccino RTD 9.5oz",
+        "profit": 15.75,
+        "rank": 3
+    },
+    {
+        "market": "Lincoln Hotel Monterey Park",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 12.99,
+        "rank": 4
+    },
+    {
+        "market": "Lincoln Hotel Monterey Park",
+        "product": "Nongshim Hot and Spicy Noodle Soup",
+        "profit": 12.0,
+        "rank": 5
+    },
+    {
+        "market": "Long Beach Convention & Entertainment Center",
+        "product": "Proud Source Alkaline Spring Water 16Oz",
+        "profit": 53.82,
+        "rank": 1
+    },
+    {
+        "market": "Long Beach Convention & Entertainment Center",
+        "product": "Monster Mango 16oz",
+        "profit": 50.26,
+        "rank": 2
+    },
+    {
+        "market": "Long Beach Convention & Entertainment Center",
+        "product": "El Monterey Egg Sausage Cheese & Potato Burrito",
+        "profit": 42.5,
+        "rank": 3
+    },
+    {
+        "market": "Long Beach Convention & Entertainment Center",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 41.86,
+        "rank": 4
+    },
+    {
+        "market": "Long Beach Convention & Entertainment Center",
+        "product": "Hillshire Genoa Salame",
+        "profit": 40.59,
+        "rank": 5
+    },
+    {
+        "market": "Long Beach Convention Center Promenade",
+        "product": "Grandmas Peanut Butter Cookie",
+        "profit": 9.0,
+        "rank": 1
+    },
+    {
+        "market": "Long Beach Convention Center Promenade",
+        "product": "Cactus Cooler 12oz",
+        "profit": 7.0,
+        "rank": 2
+    },
+    {
+        "market": "Long Beach Convention Center Promenade",
+        "product": "Pepsi Wild Cherry 12oz",
+        "profit": 7.0,
+        "rank": 3
+    },
+    {
+        "market": "Long Beach Convention Center Promenade",
+        "product": "Manzanita Sol Apple 12oz",
+        "profit": 7.0,
+        "rank": 4
+    },
+    {
+        "market": "Long Beach Convention Center Promenade",
+        "product": "SunChips Garden Salsa 2.375oz",
+        "profit": 6.25,
+        "rank": 5
+    },
+    {
+        "market": "MainStay Suites Moreno Valley",
+        "product": "Smart Water 1L",
+        "profit": 21.0,
+        "rank": 1
+    },
+    {
+        "market": "MainStay Suites Moreno Valley",
+        "product": "Monster 16oz",
+        "profit": 11.5,
+        "rank": 2
+    },
+    {
+        "market": "MainStay Suites Moreno Valley",
+        "product": "Smart Water 20oz",
+        "profit": 11.33,
+        "rank": 3
+    },
+    {
+        "market": "MainStay Suites Moreno Valley",
+        "product": "Fiji Water 16.9oz",
+        "profit": 11.0,
+        "rank": 4
+    },
+    {
+        "market": "MainStay Suites Moreno Valley",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 5.25,
+        "rank": 5
+    },
+    {
+        "market": "Marina Inn Market",
+        "product": "Doritos Nacho Cheese",
+        "profit": 52.5,
+        "rank": 1
+    },
+    {
+        "market": "Marina Inn Market",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 51.96,
+        "rank": 2
+    },
+    {
+        "market": "Marina Inn Market",
+        "product": "Fiji Water 16.9oz",
+        "profit": 49.5,
+        "rank": 3
+    },
+    {
+        "market": "Marina Inn Market",
+        "product": "Smart Water 1L",
+        "profit": 49.0,
+        "rank": 4
+    },
+    {
+        "market": "Marina Inn Market",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 43.96,
+        "rank": 5
+    },
+    {
+        "market": "Miyako LA Downtown Market",
+        "product": "Smart Water 1L",
+        "profit": 104.0,
+        "rank": 1
+    },
+    {
+        "market": "Miyako LA Downtown Market",
+        "product": "Smart Water 20oz",
+        "profit": 58.03,
+        "rank": 2
+    },
+    {
+        "market": "Miyako LA Downtown Market",
+        "product": "Skittles Sour",
+        "profit": 44.0,
+        "rank": 3
+    },
+    {
+        "market": "Miyako LA Downtown Market",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 43.98,
+        "rank": 4
+    },
+    {
+        "market": "Miyako LA Downtown Market",
+        "product": "Pocari Sweat Electrolyte Drink 16.9oz",
+        "profit": 40.5,
+        "rank": 5
+    },
+    {
+        "market": "Miyako Torrance Market",
+        "product": "Smart Water 1L",
+        "profit": 112.0,
+        "rank": 1
+    },
+    {
+        "market": "Miyako Torrance Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 36.75,
+        "rank": 2
+    },
+    {
+        "market": "Miyako Torrance Market",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 36.75,
+        "rank": 3
+    },
+    {
+        "market": "Miyako Torrance Market",
+        "product": "Dole Apple Juice",
+        "profit": 33.25,
+        "rank": 4
+    },
+    {
+        "market": "Miyako Torrance Market",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 31.5,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Anaheim Maingate Market",
+        "product": "Smart Water 1L",
+        "profit": 1088.0,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Anaheim Maingate Market",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 186.0,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Anaheim Maingate Market",
+        "product": "Dole Apple Juice",
+        "profit": 99.0,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Anaheim Maingate Market",
+        "product": "Dasani 20oz",
+        "profit": 98.58,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Anaheim Maingate Market",
+        "product": "Smart Water 20oz",
+        "profit": 85.82,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Buena Park",
+        "product": "Smart Water 1L",
+        "profit": 42.0,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Buena Park",
+        "product": "Bounce Fabric Softner",
+        "profit": 19.5,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Buena Park",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 19.5,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Buena Park",
+        "product": "Smart Water 20oz",
+        "profit": 18.88,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Buena Park",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 12.75,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Carlsbad",
+        "product": "Smartfood White Cheddar Popcorn",
+        "profit": 48.75,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Carlsbad",
+        "product": "Smart Water 1L",
+        "profit": 42.0,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Carlsbad",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 26.25,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Carlsbad",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 25.5,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Carlsbad",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 21.0,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Carson",
+        "product": "Smart Water 1L",
+        "profit": 288.0,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Carson",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 33.75,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Carson",
+        "product": "Schweppe's Ginger Ale 20oz",
+        "profit": 31.5,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Carson",
+        "product": "Milk Shamrock Lowfat 7oz",
+        "profit": 29.75,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Carson",
+        "product": "Otis Muffin Wild Blueberry",
+        "profit": 28.0,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Los Angeles - LAX",
+        "product": "Smart Water 1L",
+        "profit": 161.5,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Los Angeles - LAX",
+        "product": "FR SLB Multigrain Turkey & Bacon Club",
+        "profit": 38.97,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Los Angeles - LAX",
+        "product": "FR SLB Triangle Ham Wheat",
+        "profit": 35.96,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Los Angeles - LAX",
+        "product": "Dasani 20oz",
+        "profit": 34.84,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Los Angeles - LAX",
+        "product": "SS Pineapple & Tajin",
+        "profit": 22.98,
+        "rank": 5
+    },
+    {
+        "market": "Motel 6 Westminster North",
+        "product": "Smart Water 1L",
+        "profit": 56.0,
+        "rank": 1
+    },
+    {
+        "market": "Motel 6 Westminster North",
+        "product": "Digiorno Four Cheese Pizza",
+        "profit": 32.97,
+        "rank": 2
+    },
+    {
+        "market": "Motel 6 Westminster North",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 22.75,
+        "rank": 3
+    },
+    {
+        "market": "Motel 6 Westminster North",
+        "product": "Fairlife Chocolate Milk 14oz",
+        "profit": 21.0,
+        "rank": 4
+    },
+    {
+        "market": "Motel 6 Westminster North",
+        "product": "Smart Water 20oz",
+        "profit": 17.62,
+        "rank": 5
+    },
+    {
+        "market": "Peacock Suites",
+        "product": "Smart Water 1L",
+        "profit": 32.5,
+        "rank": 1
+    },
+    {
+        "market": "Peacock Suites",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 2
+    },
+    {
+        "market": "Peacock Suites",
+        "product": "Claritin",
+        "profit": 15.75,
+        "rank": 3
+    },
+    {
+        "market": "Peacock Suites",
+        "product": "Doritos Nacho Cheese",
+        "profit": 15.0,
+        "rank": 4
+    },
+    {
+        "market": "Peacock Suites",
+        "product": "Core Power High Protein Shake Vanilla 14oz",
+        "profit": 13.0,
+        "rank": 5
+    },
+    {
+        "market": "Quality Inn & Suites Camarillo-Oxnard",
+        "product": "Smart Water 1L",
+        "profit": 56.0,
+        "rank": 1
+    },
+    {
+        "market": "Quality Inn & Suites Camarillo-Oxnard",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 16.8,
+        "rank": 2
+    },
+    {
+        "market": "Quality Inn & Suites Camarillo-Oxnard",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 14.5,
+        "rank": 3
+    },
+    {
+        "market": "Quality Inn & Suites Camarillo-Oxnard",
+        "product": "Doritos Nacho Cheese",
+        "profit": 14.4,
+        "rank": 4
+    },
+    {
+        "market": "Quality Inn & Suites Camarillo-Oxnard",
+        "product": "Monster 16oz",
+        "profit": 12.5,
+        "rank": 5
+    },
+    {
+        "market": "Quality Inn Placentia Anaheim Fullerton",
+        "product": "Smart Water 1L",
+        "profit": 210.0,
+        "rank": 1
+    },
+    {
+        "market": "Quality Inn Placentia Anaheim Fullerton",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 51.96,
+        "rank": 2
+    },
+    {
+        "market": "Quality Inn Placentia Anaheim Fullerton",
+        "product": "Munchies Flamin Hot",
+        "profit": 33.75,
+        "rank": 3
+    },
+    {
+        "market": "Quality Inn Placentia Anaheim Fullerton",
+        "product": "Dasani 20oz",
+        "profit": 27.02,
+        "rank": 4
+    },
+    {
+        "market": "Quality Inn Placentia Anaheim Fullerton",
+        "product": "Cheetos Puffs",
+        "profit": 26.25,
+        "rank": 5
+    },
+    {
+        "market": "Queens Inn Anaheim",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 1
+    },
+    {
+        "market": "Queens Inn Anaheim",
+        "product": "Smart Water 1L",
+        "profit": 14.0,
+        "rank": 2
+    },
+    {
+        "market": "Queens Inn Anaheim",
+        "product": "Coke Zero 20oz",
+        "profit": 8.5,
+        "rank": 3
+    },
+    {
+        "market": "Queens Inn Anaheim",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 4
+    },
+    {
+        "market": "Queens Inn Anaheim",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 6.5,
+        "rank": 5
+    },
+    {
+        "market": "Ramada Anaheim Convention Center",
+        "product": "Smart Water 1L",
+        "profit": 371.0,
+        "rank": 1
+    },
+    {
+        "market": "Ramada Anaheim Convention Center",
+        "product": "Ares Liquid Detergent HE",
+        "profit": 39.0,
+        "rank": 2
+    },
+    {
+        "market": "Ramada Anaheim Convention Center",
+        "product": "Milk Shamrock Lowfat 7oz",
+        "profit": 33.75,
+        "rank": 3
+    },
+    {
+        "market": "Ramada Anaheim Convention Center",
+        "product": "Cheetos Crunchy",
+        "profit": 30.0,
+        "rank": 4
+    },
+    {
+        "market": "Ramada Anaheim Convention Center",
+        "product": "Dunkin Donuts French Vanilla 13.7 oz",
+        "profit": 28.75,
+        "rank": 5
+    },
+    {
+        "market": "Ramada Inn Burbank Market",
+        "product": "Smart Water 1L",
+        "profit": 400.0,
+        "rank": 1
+    },
+    {
+        "market": "Ramada Inn Burbank Market",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 87.96,
+        "rank": 2
+    },
+    {
+        "market": "Ramada Inn Burbank Market",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 53.98,
+        "rank": 3
+    },
+    {
+        "market": "Ramada Inn Burbank Market",
+        "product": "Coke Zero 20oz",
+        "profit": 49.5,
+        "rank": 4
+    },
+    {
+        "market": "Ramada Inn Burbank Market",
+        "product": "Smart Water 20oz",
+        "profit": 38.69,
+        "rank": 5
+    },
+    {
+        "market": "Ramada National City Market",
+        "product": "Dole Apple Juice",
+        "profit": 22.5,
+        "rank": 1
+    },
+    {
+        "market": "Ramada National City Market",
+        "product": "Smart Water 1L",
+        "profit": 13.0,
+        "rank": 2
+    },
+    {
+        "market": "Ramada National City Market",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 10.0,
+        "rank": 3
+    },
+    {
+        "market": "Ramada National City Market",
+        "product": "Dove Milk Chocolate Almond Bar",
+        "profit": 10.0,
+        "rank": 4
+    },
+    {
+        "market": "Ramada National City Market",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 7.0,
+        "rank": 5
+    },
+    {
+        "market": "Ramada by Wyndham Barstow",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 43.96,
+        "rank": 1
+    },
+    {
+        "market": "Ramada by Wyndham Barstow",
+        "product": "Smart Water 1L",
+        "profit": 42.0,
+        "rank": 2
+    },
+    {
+        "market": "Ramada by Wyndham Barstow",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 17.25,
+        "rank": 3
+    },
+    {
+        "market": "Ramada by Wyndham Barstow",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 10.5,
+        "rank": 4
+    },
+    {
+        "market": "Ramada by Wyndham Barstow",
+        "product": "Nongshim Mild Chicken Noodle Soup",
+        "profit": 8.0,
+        "rank": 5
+    },
+    {
+        "market": "Ramada by Wyndham Hawthorne-LA Stadium",
+        "product": "Smart Water 1L",
+        "profit": 217.0,
+        "rank": 1
+    },
+    {
+        "market": "Ramada by Wyndham Hawthorne-LA Stadium",
+        "product": "Coke Zero 20oz",
+        "profit": 38.25,
+        "rank": 2
+    },
+    {
+        "market": "Ramada by Wyndham Hawthorne-LA Stadium",
+        "product": "Nongshim Spicy Shin Noodle Soup",
+        "profit": 30.0,
+        "rank": 3
+    },
+    {
+        "market": "Ramada by Wyndham Hawthorne-LA Stadium",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 29.75,
+        "rank": 4
+    },
+    {
+        "market": "Ramada by Wyndham Hawthorne-LA Stadium",
+        "product": "Life Saver Gummies 5 Flavor Peg 7oz",
+        "profit": 21.0,
+        "rank": 5
+    },
+    {
+        "market": "Residence Inn San Diego North San Marcos",
+        "product": "Beer Modelo Especial 16oz Can",
+        "profit": 161.82,
+        "rank": 1
+    },
+    {
+        "market": "Residence Inn San Diego North San Marcos",
+        "product": "Life Water Premium 1L",
+        "profit": 136.0,
+        "rank": 2
+    },
+    {
+        "market": "Residence Inn San Diego North San Marcos",
+        "product": "White Claw Mango Hard Seltzer 12oz Can",
+        "profit": 103.87,
+        "rank": 3
+    },
+    {
+        "market": "Residence Inn San Diego North San Marcos",
+        "product": "Gatorade Lemon Lime 20oz",
+        "profit": 93.75,
+        "rank": 4
+    },
+    {
+        "market": "Residence Inn San Diego North San Marcos",
+        "product": "Beers Coors Light 16oz Can",
+        "profit": 63.92,
+        "rank": 5
+    },
+    {
+        "market": "San Manuel Service Center",
+        "product": "Doritos Nacho Cheese",
+        "profit": 25.33,
+        "rank": 1
+    },
+    {
+        "market": "San Manuel Service Center",
+        "product": "Munchies Flamin Hot",
+        "profit": 20.86,
+        "rank": 2
+    },
+    {
+        "market": "San Manuel Service Center",
+        "product": "Coke Zero 20oz",
+        "profit": 18.32,
+        "rank": 3
+    },
+    {
+        "market": "San Manuel Service Center",
+        "product": "Lunchables Turkey & Cheddar",
+        "profit": 17.91,
+        "rank": 4
+    },
+    {
+        "market": "San Manuel Service Center",
+        "product": "FR Snack Double & Cheese Cup",
+        "profit": 16.47,
+        "rank": 5
+    },
+    {
+        "market": "Sandbourne Santa Monica, Autograph Collection",
+        "product": "Proud Source Alkaline Spring Water 750ml",
+        "profit": 2070.0,
+        "rank": 1
+    },
+    {
+        "market": "Sandbourne Santa Monica, Autograph Collection",
+        "product": "Proud Source Alkaline Spring Water 16Oz",
+        "profit": 406.0,
+        "rank": 2
+    },
+    {
+        "market": "Sandbourne Santa Monica, Autograph Collection",
+        "product": "Aquafina Aluminum Bottle 16oz",
+        "profit": 247.0,
+        "rank": 3
+    },
+    {
+        "market": "Sandbourne Santa Monica, Autograph Collection",
+        "product": "Celsius Sparkling Watermelon 12oz",
+        "profit": 114.75,
+        "rank": 4
+    },
+    {
+        "market": "Sandbourne Santa Monica, Autograph Collection",
+        "product": "Celsius Sparkling Wild Berry 12oz",
+        "profit": 101.25,
+        "rank": 5
+    },
+    {
+        "market": "Sheraton Gateway Los Angeles Hotel",
+        "product": "Life Water Premium 1L",
+        "profit": 405.0,
+        "rank": 1
+    },
+    {
+        "market": "Sheraton Gateway Los Angeles Hotel",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 72.0,
+        "rank": 2
+    },
+    {
+        "market": "Sheraton Gateway Los Angeles Hotel",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 72.0,
+        "rank": 3
+    },
+    {
+        "market": "Sheraton Gateway Los Angeles Hotel",
+        "product": "Nongshim Spicy Shin Noodle Soup",
+        "profit": 71.5,
+        "rank": 4
+    },
+    {
+        "market": "Sheraton Gateway Los Angeles Hotel",
+        "product": "Lays Original 2.25oz",
+        "profit": 65.0,
+        "rank": 5
+    },
+    {
+        "market": "Sonesta ES Suites Chatsworth",
+        "product": "Kombucha Pink Lady Apple Can 11.5oz",
+        "profit": 6.5,
+        "rank": 1
+    },
+    {
+        "market": "Sonesta ES Suites Chatsworth",
+        "product": "Lays Original 2.25oz",
+        "profit": 6.0,
+        "rank": 2
+    },
+    {
+        "market": "Sonesta ES Suites Chatsworth",
+        "product": "Rold Gold Pretzels Thins Original 3.5oz",
+        "profit": 6.0,
+        "rank": 3
+    },
+    {
+        "market": "Sonesta ES Suites Chatsworth",
+        "product": "Cheetos Flamin Hot 2.75oz",
+        "profit": 6.0,
+        "rank": 4
+    },
+    {
+        "market": "Sonesta ES Suites Chatsworth",
+        "product": "Kettle Jalapeno Chips 2.0oz",
+        "profit": 5.25,
+        "rank": 5
+    },
+    {
+        "market": "SpringHill Suites By Marriott Redlands",
+        "product": "Life Water Premium 1L",
+        "profit": 186.0,
+        "rank": 1
+    },
+    {
+        "market": "SpringHill Suites By Marriott Redlands",
+        "product": "Fiji Water 16.9oz",
+        "profit": 70.0,
+        "rank": 2
+    },
+    {
+        "market": "SpringHill Suites By Marriott Redlands",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 66.0,
+        "rank": 3
+    },
+    {
+        "market": "SpringHill Suites By Marriott Redlands",
+        "product": "Hillshire Italian Dry Salame",
+        "profit": 49.0,
+        "rank": 4
+    },
+    {
+        "market": "SpringHill Suites By Marriott Redlands",
+        "product": "Smartfood White Cheddar 1.75oz",
+        "profit": 45.0,
+        "rank": 5
+    },
+    {
+        "market": "Staybridge Suites Oxnard River Ridge",
+        "product": "Smart Water 1L",
+        "profit": 64.8,
+        "rank": 1
+    },
+    {
+        "market": "Staybridge Suites Oxnard River Ridge",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 27.5,
+        "rank": 2
+    },
+    {
+        "market": "Staybridge Suites Oxnard River Ridge",
+        "product": "Fiji Water 16.9oz",
+        "profit": 25.0,
+        "rank": 3
+    },
+    {
+        "market": "Staybridge Suites Oxnard River Ridge",
+        "product": "Powerade Lemon Lime 20oz",
+        "profit": 21.25,
+        "rank": 4
+    },
+    {
+        "market": "Staybridge Suites Oxnard River Ridge",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 21.0,
+        "rank": 5
+    },
+    {
+        "market": "Staybridge Suites Palmdale",
+        "product": "Smart Water 1L",
+        "profit": 70.0,
+        "rank": 1
+    },
+    {
+        "market": "Staybridge Suites Palmdale",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 26.25,
+        "rank": 2
+    },
+    {
+        "market": "Staybridge Suites Palmdale",
+        "product": "Twix Ice Cream Bar 3oz",
+        "profit": 21.0,
+        "rank": 3
+    },
+    {
+        "market": "Staybridge Suites Palmdale",
+        "product": "Jarritos Gummies 8oz",
+        "profit": 15.75,
+        "rank": 4
+    },
+    {
+        "market": "Staybridge Suites Palmdale",
+        "product": "Cheetos Flamin Hot Limon",
+        "profit": 11.25,
+        "rank": 5
+    },
+    {
+        "market": "SureStay Hotel by Best Western Beverly Hills",
+        "product": "Smart Water 1L",
+        "profit": 63.0,
+        "rank": 1
+    },
+    {
+        "market": "SureStay Hotel by Best Western Beverly Hills",
+        "product": "Coke Zero 20oz",
+        "profit": 21.25,
+        "rank": 2
+    },
+    {
+        "market": "SureStay Hotel by Best Western Beverly Hills",
+        "product": "Milk Shamrock Lowfat 7oz",
+        "profit": 18.75,
+        "rank": 3
+    },
+    {
+        "market": "SureStay Hotel by Best Western Beverly Hills",
+        "product": "Powerade Zero Mixed Berry 20oz",
+        "profit": 12.75,
+        "rank": 4
+    },
+    {
+        "market": "SureStay Hotel by Best Western Beverly Hills",
+        "product": "Fairlife Chocolate Milk 14oz",
+        "profit": 10.5,
+        "rank": 5
+    },
+    {
+        "market": "SureStay Plus Hotel By Best Western Upland Market",
+        "product": "Smart Water 1L",
+        "profit": 63.0,
+        "rank": 1
+    },
+    {
+        "market": "SureStay Plus Hotel By Best Western Upland Market",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 41.98,
+        "rank": 2
+    },
+    {
+        "market": "SureStay Plus Hotel By Best Western Upland Market",
+        "product": "Anker USB-C to USB-C 10ft Cable",
+        "profit": 25.99,
+        "rank": 3
+    },
+    {
+        "market": "SureStay Plus Hotel By Best Western Upland Market",
+        "product": "Anker USB-C to Lightning 6ft Cable",
+        "profit": 24.99,
+        "rank": 4
+    },
+    {
+        "market": "SureStay Plus Hotel By Best Western Upland Market",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 23.0,
+        "rank": 5
+    },
+    {
+        "market": "SureStay by Best Western Ontario Airport",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 29.97,
+        "rank": 1
+    },
+    {
+        "market": "SureStay by Best Western Ontario Airport",
+        "product": "Smart Water 1L",
+        "profit": 14.0,
+        "rank": 2
+    },
+    {
+        "market": "SureStay by Best Western Ontario Airport",
+        "product": "Otis Muffin Banana Nut",
+        "profit": 11.25,
+        "rank": 3
+    },
+    {
+        "market": "SureStay by Best Western Ontario Airport",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 4
+    },
+    {
+        "market": "SureStay by Best Western Ontario Airport",
+        "product": "Chester's Fries Flamin Hot",
+        "profit": 7.5,
+        "rank": 5
+    },
+    {
+        "market": "Surestay Twentynine Palms Market",
+        "product": "Dunkin Donuts Mocha 13.7oz",
+        "profit": 16.5,
+        "rank": 1
+    },
+    {
+        "market": "Surestay Twentynine Palms Market",
+        "product": "Monster 16oz",
+        "profit": 16.5,
+        "rank": 2
+    },
+    {
+        "market": "Surestay Twentynine Palms Market",
+        "product": "Digiorno Four Cheese Pizza",
+        "profit": 9.99,
+        "rank": 3
+    },
+    {
+        "market": "Surestay Twentynine Palms Market",
+        "product": "Jack Links Teriyaki Beef Jerky 70 Cal",
+        "profit": 8.0,
+        "rank": 4
+    },
+    {
+        "market": "Surestay Twentynine Palms Market",
+        "product": "Stouffers Mac and Cheese",
+        "profit": 5.99,
+        "rank": 5
+    },
+    {
+        "market": "The Anza A Calabasas Hotel",
+        "product": "Smart Water 1L",
+        "profit": 275.4,
+        "rank": 1
+    },
+    {
+        "market": "The Anza A Calabasas Hotel",
+        "product": "Smart Water 20oz",
+        "profit": 71.72,
+        "rank": 2
+    },
+    {
+        "market": "The Anza A Calabasas Hotel",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 69.6,
+        "rank": 3
+    },
+    {
+        "market": "The Anza A Calabasas Hotel",
+        "product": "Kettle Krinkle Cut Salt & Pepper Chips 2.0oz",
+        "profit": 37.95,
+        "rank": 4
+    },
+    {
+        "market": "The Anza A Calabasas Hotel",
+        "product": "Vita Coco Pure Coconut Water 500ml",
+        "profit": 33.75,
+        "rank": 5
+    },
+    {
+        "market": "The Hotel Amarano Burbank-Hollywood",
+        "product": "Smart Water 1L",
+        "profit": 144.0,
+        "rank": 1
+    },
+    {
+        "market": "The Hotel Amarano Burbank-Hollywood",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 90.0,
+        "rank": 2
+    },
+    {
+        "market": "The Hotel Amarano Burbank-Hollywood",
+        "product": "Fiji Water 16.9oz",
+        "profit": 74.25,
+        "rank": 3
+    },
+    {
+        "market": "The Hotel Amarano Burbank-Hollywood",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 51.0,
+        "rank": 4
+    },
+    {
+        "market": "The Hotel Amarano Burbank-Hollywood",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 49.0,
+        "rank": 5
+    },
+    {
+        "market": "The Westin Long Beach",
+        "product": "Life Water Premium 1L",
+        "profit": 1026.0,
+        "rank": 1
+    },
+    {
+        "market": "The Westin Long Beach",
+        "product": "Path Water WLB 20.3oz",
+        "profit": 237.5,
+        "rank": 2
+    },
+    {
+        "market": "The Westin Long Beach",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 207.6,
+        "rank": 3
+    },
+    {
+        "market": "The Westin Long Beach",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 202.5,
+        "rank": 4
+    },
+    {
+        "market": "The Westin Long Beach",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 195.75,
+        "rank": 5
+    },
+    {
+        "market": "The Westin Pasadena",
+        "product": "Life Water Premium 1L",
+        "profit": 1017.0,
+        "rank": 1
+    },
+    {
+        "market": "The Westin Pasadena",
+        "product": "Proud Source Alkaline Spring Water 750ml",
+        "profit": 171.0,
+        "rank": 2
+    },
+    {
+        "market": "The Westin Pasadena",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 138.0,
+        "rank": 3
+    },
+    {
+        "market": "The Westin Pasadena",
+        "product": "Aquafina 20oz",
+        "profit": 132.46,
+        "rank": 4
+    },
+    {
+        "market": "The Westin Pasadena",
+        "product": "Rold Gold Pretzels Thins Original 3.5oz",
+        "profit": 123.5,
+        "rank": 5
+    },
+    {
+        "market": "Travelodge Commerce Market",
+        "product": "Fiji Water 16.9oz",
+        "profit": 16.5,
+        "rank": 1
+    },
+    {
+        "market": "Travelodge Commerce Market",
+        "product": "Smart Water 20oz",
+        "profit": 15.1,
+        "rank": 2
+    },
+    {
+        "market": "Travelodge Commerce Market",
+        "product": "Knotts Strawberry Cookie",
+        "profit": 15.0,
+        "rank": 3
+    },
+    {
+        "market": "Travelodge Commerce Market",
+        "product": "Dasani 20oz",
+        "profit": 11.76,
+        "rank": 4
+    },
+    {
+        "market": "Travelodge Commerce Market",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 8.5,
+        "rank": 5
+    },
+    {
+        "market": "Travelodge LAX South",
+        "product": "Smart Water 20oz",
+        "profit": 54.11,
+        "rank": 1
+    },
+    {
+        "market": "Travelodge LAX South",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 28.75,
+        "rank": 2
+    },
+    {
+        "market": "Travelodge LAX South",
+        "product": "Dasani 20oz",
+        "profit": 28.56,
+        "rank": 3
+    },
+    {
+        "market": "Travelodge LAX South",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 26.25,
+        "rank": 4
+    },
+    {
+        "market": "Travelodge LAX South",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 20.99,
+        "rank": 5
+    },
+    {
+        "market": "Ultraserv Lounge Market",
+        "product": "SS Better Bites Bistro Box",
+        "profit": 6.88,
+        "rank": 1
+    },
+    {
+        "market": "Ultraserv Lounge Market",
+        "product": "FR SLB EL Cubano 8oz",
+        "profit": 4.07,
+        "rank": 2
+    },
+    {
+        "market": "Ultraserv Lounge Market",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 3.86,
+        "rank": 3
+    },
+    {
+        "market": "Ultraserv Lounge Market",
+        "product": "Coke Zero 12oz",
+        "profit": 3.16,
+        "rank": 4
+    },
+    {
+        "market": "Ultraserv Lounge Market",
+        "product": "FR Breakfast Muffin Sausage & Egg",
+        "profit": 3.14,
+        "rank": 5
+    },
+    {
+        "market": "Vistar Fontana",
+        "product": "FR SLB Triangle Turkey Wheat",
+        "profit": 54.89,
+        "rank": 1
+    },
+    {
+        "market": "Vistar Fontana",
+        "product": "Monster 16oz",
+        "profit": 49.8,
+        "rank": 2
+    },
+    {
+        "market": "Vistar Fontana",
+        "product": "Starbucks Mocha Frappuccino RTD 9.5oz",
+        "profit": 29.85,
+        "rank": 3
+    },
+    {
+        "market": "Vistar Fontana",
+        "product": "FR SLB Multigrain Turkey & Bacon Club",
+        "profit": 27.96,
+        "rank": 4
+    },
+    {
+        "market": "Vistar Fontana",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 22.41,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark - Oceanside Market",
+        "product": "Smart Water 1L",
+        "profit": 63.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark - Oceanside Market",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 38.97,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark - Oceanside Market",
+        "product": "Minute Maid Lemonade 20oz",
+        "profit": 34.0,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark - Oceanside Market",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 21.0,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark - Oceanside Market",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 20.7,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark Big Bear",
+        "product": "Smart Water 1L",
+        "profit": 39.2,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark Big Bear",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 10.5,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark Big Bear",
+        "product": "Knotts Strawberry Cookie",
+        "profit": 7.5,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark Big Bear",
+        "product": "Otis Muffin Banana Nut",
+        "profit": 6.0,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark Big Bear",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 5.25,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark Indio Activities Center Market",
+        "product": "Smart Water 1L",
+        "profit": 161.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark Indio Activities Center Market",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 89.25,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark Indio Activities Center Market",
+        "product": "SnakClub Energizer Trail Mix Premium",
+        "profit": 84.5,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark Indio Activities Center Market",
+        "product": "Anker Power Port 32W Wall Charger",
+        "profit": 83.96,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark Indio Activities Center Market",
+        "product": "Snickers Ice Cream Bar",
+        "profit": 82.5,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark Mission Valley",
+        "product": "Smart Water 1L",
+        "profit": 256.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark Mission Valley",
+        "product": "Fairlife 2% Reduced Fat Ultra-Filtered Milk 14oz",
+        "profit": 55.0,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark Mission Valley",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 51.96,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark Mission Valley",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 32.5,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark Mission Valley",
+        "product": "Starbucks Caramel Frappuccino RTD 9.5oz",
+        "profit": 32.5,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark Palm Springs",
+        "product": "Smart Water 1L",
+        "profit": 48.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark Palm Springs",
+        "product": "San Pellegrino Sparkling Mineral Water 16.9oz",
+        "profit": 27.0,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark Palm Springs",
+        "product": "Red Vines Original 4oz Peg",
+        "profit": 21.0,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark Palm Springs",
+        "product": "Coke Zero 20oz",
+        "profit": 18.0,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark Palm Springs",
+        "product": "Gatorlyte Zero Strawberry Kiwi 20 oz",
+        "profit": 17.25,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark Palm Springs Plaza Resort & Spa",
+        "product": "Core Power High Protein Shake Chocolate 14oz",
+        "profit": 26.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark Palm Springs Plaza Resort & Spa",
+        "product": "Pringles Original",
+        "profit": 20.0,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark Palm Springs Plaza Resort & Spa",
+        "product": "Powerade Fruit Punch 20oz",
+        "profit": 17.0,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark Palm Springs Plaza Resort & Spa",
+        "product": "Sour Patch Kids Watermelon",
+        "profit": 15.0,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark Palm Springs Plaza Resort & Spa",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 12.99,
+        "rank": 5
+    },
+    {
+        "market": "WorldMark San Diego Balboa Park",
+        "product": "Smart Water 1L",
+        "profit": 140.0,
+        "rank": 1
+    },
+    {
+        "market": "WorldMark San Diego Balboa Park",
+        "product": "Digiorno Pepperoni Cheese Pizza",
+        "profit": 43.96,
+        "rank": 2
+    },
+    {
+        "market": "WorldMark San Diego Balboa Park",
+        "product": "Red Bull Red Watermelon 8.4oz",
+        "profit": 28.75,
+        "rank": 3
+    },
+    {
+        "market": "WorldMark San Diego Balboa Park",
+        "product": "Haagen Dazs Chocolate Ice Cream 14oz",
+        "profit": 25.98,
+        "rank": 4
+    },
+    {
+        "market": "WorldMark San Diego Balboa Park",
+        "product": "Monster Zero Ultra 16oz",
+        "profit": 11.5,
+        "rank": 5
+    }
+]
