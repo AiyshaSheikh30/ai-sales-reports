@@ -1,0 +1,806 @@
+{
+    "generated_at": "2025-12-26T11:52:50.693533",
+    "analysis_period_start": "2025-12-12T11:52:50.693533",
+    "global_top_5_high_profit": [
+        {
+            "product": "Folgers Special Reserve 2LT",
+            "profit": 2123.77
+        },
+        {
+            "product": "Juice Pack Orange Blend 100%",
+            "profit": 1362.8
+        },
+        {
+            "product": "Juice Pack Apple 100%",
+            "profit": 675.2
+        },
+        {
+            "product": "Dark Colombian Blend Coffee Concentrate",
+            "profit": 634.85
+        },
+        {
+            "product": "Juice Pack Passion Orange Guava",
+            "profit": 580.24
+        }
+    ],
+    "micro_market_top_5_high_profit": {
+        "Advantage Vending Services (Advantage Vending Services)": [
+            {
+                "product": "Alterra Froth Real Milk",
+                "profit": 13.81
+            },
+            {
+                "product": "Bright Tea Company English Breakfast",
+                "profit": 9.99
+            },
+            {
+                "product": "Bright Tea Company Lemon Herbal Tea",
+                "profit": 7.86
+            },
+            {
+                "product": "Bright Tea Company Chai Spice Tea",
+                "profit": 6.86
+            },
+            {
+                "product": "Bright Tea Company Green with Jasmine",
+                "profit": 5.98
+            }
+        ],
+        "Ayres Hotel Anaheim  (Ayres - Anaheim)": [
+            {
+                "product": "Juice Pack Orange Blend 50%",
+                "profit": 109.76
+            }
+        ],
+        "Ayres Hotel Redlands  (Ayres - Redlands)": [
+            {
+                "product": "Juice Pack Orange Blend 50%",
+                "profit": 82.32
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 27.9
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 23.88
+            }
+        ],
+        "Ayres Hotel Rialto Fontana (Ayres -  Rialto Fontana)": [
+            {
+                "product": "Juice Pack Orange Blend 50%",
+                "profit": 82.32
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 55.8
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 23.88
+            }
+        ],
+        "Ayres Suites Mission Viejo - Lake Forest (Ayres - Mission Viejo)": [
+            {
+                "product": "Juice Pack Orange Blend 50%",
+                "profit": 164.64
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 83.7
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 47.76
+            }
+        ],
+        "Ayres Suites Ontario Mills Mall (Ayres - Ont Mills Circle)": [
+            {
+                "product": "Juice Pack Orange Blend 50%",
+                "profit": 82.32
+            },
+            {
+                "product": "Ayres Shampoo 400ml - 20ct",
+                "profit": 74.5
+            },
+            {
+                "product": "Ayres Body Lotion In Tube 1fl oz/30 ml - 288ct",
+                "profit": 37.97
+            },
+            {
+                "product": "Ayres Shower Gel 400ml - 20ct",
+                "profit": 29.8
+            },
+            {
+                "product": "Juice Pack Cranberry",
+                "profit": 26.05
+            }
+        ],
+        "BTC Power Irvine (BTC Power Irvine)": [
+            {
+                "product": "Starbucks Veranda Blend Flavia",
+                "profit": 107.59
+            },
+            {
+                "product": "Starbucks Verona Flavia",
+                "profit": 54.27
+            },
+            {
+                "product": "Starbucks Pikes Place Flavia",
+                "profit": 54.26
+            },
+            {
+                "product": "Bright Tea Company Green with Jasmine",
+                "profit": 41.98
+            },
+            {
+                "product": "Dove Hot Chocolate",
+                "profit": 27.72
+            }
+        ],
+        "Behr Paint Company - Garry (Behr Paint Company - Garry)": [
+            {
+                "product": "International Delight French Vanilla Creamer - 192ct",
+                "profit": 37.0
+            }
+        ],
+        "Behr Paint Company - Midway Coatings Cantina (Behr Paint Company - Midway Coatings Cantina)": [
+            {
+                "product": "Marcal Towels Kitchen Roll - 30ct",
+                "profit": 9.67
+            }
+        ],
+        "Behr Paint Company - Saint Andrews (Behr Paint Company - Saint Andrews)": [
+            {
+                "product": "World Centric Fiber Plate 9 Inch - 1000ct",
+                "profit": 302.4
+            },
+            {
+                "product": "Karat Eco Hot Cups 12oz - 1000ct",
+                "profit": 253.35
+            },
+            {
+                "product": "Marcal Towels Kitchen Roll - 30ct",
+                "profit": 80.15
+            }
+        ],
+        "Behr Paint Company - Standard (Behr Paint Company - Standard)": [
+            {
+                "product": "Karat Eco Hot Cups 12oz - 1000ct",
+                "profit": 126.68
+            },
+            {
+                "product": "Marcal Towels Kitchen Roll - 30ct",
+                "profit": 40.07
+            },
+            {
+                "product": "International Delight Hazelnut Creamer - 192ct",
+                "profit": 18.5
+            },
+            {
+                "product": "International Delight French Vanilla Creamer - 192ct",
+                "profit": 18.5
+            }
+        ],
+        "Best Western Escondido Hotel  (BW Escondido)": [
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 61.04
+            },
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 57.38
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 52.36
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Best Western Plus La Mid-Town Hotel (BW Plus La Midtown)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 193.89
+            },
+            {
+                "product": "Folgers Special Reserve 1.25LT",
+                "profit": 125.05
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 124.64
+            },
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 123.4
+            },
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 95.1
+            }
+        ],
+        "Best Western Plus Stovall's Inn (Best Western Plus - Stovall's)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 584.28
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 177.62
+            },
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 142.14
+            },
+            {
+                "product": "Nestle French Vanilla Bulk Creamer 1.5Gal",
+                "profit": 124.52
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 98.6
+            }
+        ],
+        "Best Western Redondo Beach Galleria Inn  (BW Galleria)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 110.07
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 44.93
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 41.29
+            },
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 31.46
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Best Western Route 66 Glendora Inn (BW Glendora)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 89.07
+            },
+            {
+                "product": "Juice Pack Orange Premium 100%",
+                "profit": 64.2
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 62.27
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Bobrick Washroom Equipment Inc (Bobrick)": [
+            {
+                "product": "Karat Eco Hot Cups 10oz - 1000ct",
+                "profit": 176.18
+            },
+            {
+                "product": "International Delight French Vanilla Creamer - 192ct",
+                "profit": 47.04
+            },
+            {
+                "product": "International Delight Hazelnut Creamer - 192ct",
+                "profit": 47.04
+            },
+            {
+                "product": "International Delight Half & Half Coffee Creamer - 180 ct",
+                "profit": 43.05
+            },
+            {
+                "product": "Gavina 694 Coffee Northwest Blend 2oz - 42ct",
+                "profit": 31.67
+            }
+        ],
+        "Carlsbad Inn Beach Resort  (GPR Carlsbad Inn)": [
+            {
+                "product": "Woodbury Dispenser Shampoo 12.85oz - 40ct",
+                "profit": 31.8
+            },
+            {
+                "product": "Woodbury Dispenser Body Wash 12.85oz 40ct",
+                "profit": 31.12
+            },
+            {
+                "product": "Woodbury Dispenser Conditioner 12.85oz - 40ct",
+                "profit": 31.12
+            },
+            {
+                "product": "Woodbury & Co Bath Bar 1.2 fl.oz/35g - 400ct",
+                "profit": 6.96
+            },
+            {
+                "product": "Woodbury & Co Clean Soap 1 fl oz/28g - 500ct",
+                "profit": 4.56
+            }
+        ],
+        "Castle Manor Nursing & Rehab (Castle Manor Nursing & Rehab)": [
+            {
+                "product": "Bag In Box White Cranberry 3 GAL",
+                "profit": 96.34
+            },
+            {
+                "product": "Bag In Box Apple 100% 3 GAL",
+                "profit": 89.14
+            },
+            {
+                "product": "Bag In Box Strawberry Kiwi 3 GAL",
+                "profit": 88.77
+            },
+            {
+                "product": "Bag In Box Orange Blend 100% 3 GAL",
+                "profit": 76.23
+            },
+            {
+                "product": "Bag In Box Pineapple 3 GAL",
+                "profit": 47.68
+            }
+        ],
+        "Comfort Inn Anaheim Resort (Comfort Inn - Anaheim)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 205.11
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 47.29
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Comfort Suites San Clemente Beach (Comfort Suites - San Clemente)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 45.13
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Coronado Beach Resort  (GPR Coronado Beach Resort)": [
+            {
+                "product": "Woodbury Dispenser Body Wash 12.85oz 40ct",
+                "profit": 62.25
+            },
+            {
+                "product": "Woodbury Dispenser Body Lotion 12.85oz",
+                "profit": 32.35
+            },
+            {
+                "product": "Woodbury & Co Bath Bar 1.2 fl.oz/35g - 400ct",
+                "profit": 6.96
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Desert Palms Hotel and Suites (Desert Palms - Anaheim)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 122.16
+            },
+            {
+                "product": "Nestle Sweetened Original Creamer Pump - 1.5 lt",
+                "profit": 60.15
+            },
+            {
+                "product": "Nestle French Vanilla Creamer Pump 1.5lt",
+                "profit": 59.63
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Fairfield Inn by Marriott Anaheim Hills Orange County  (Fairfield Inn - Anaheim Hills)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 103.2
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 96.08
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 39.18
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Hartford Hotel (Hartford Hotel)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 173.97
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 52.36
+            },
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 51.99
+            },
+            {
+                "product": "JavaOne French Roast Pod - 200ct",
+                "profit": 37.21
+            },
+            {
+                "product": "JavaOne Colombian Decaf Pod - 200ct",
+                "profit": 36.01
+            }
+        ],
+        "Hotel Pacific Garden (Hotel Pacific Garden)": [
+            {
+                "product": "Dark Colombian Blend Coffee Concentrate",
+                "profit": 217.05
+            },
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 216.8
+            },
+            {
+                "product": "Dark Colombian Blend Decaf Coffee Concentrate",
+                "profit": 201.9
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 119.9
+            }
+        ],
+        "Kearny Mesa Convalescent and Nursing Home  (Kearny Mesa Nursing)": [
+            {
+                "product": "Bag In Box Apple 100% 3 GAL",
+                "profit": 178.28
+            },
+            {
+                "product": "Bag In Box Red Cranberry 3 GAL",
+                "profit": 93.57
+            },
+            {
+                "product": "Bag In Box Orange Blend 100% 3 GAL",
+                "profit": 76.23
+            },
+            {
+                "product": "Bag In Box Diet Fruit Punch 3 GAL",
+                "profit": 35.0
+            },
+            {
+                "product": "Bag In Box Nectar Thickened Water 3 GAL",
+                "profit": 14.52
+            }
+        ],
+        "La Quinta Inn & Suites by Wyndham Orange County Airport DR710 (La Quinta Santa Ana)": [
+            {
+                "product": "Juice Pack Orange 50%",
+                "profit": 77.78
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 49.3
+            },
+            {
+                "product": "Amys Enchilada Cheese",
+                "profit": 34.15
+            },
+            {
+                "product": "Stouffers Lasagna with Meat Sauce",
+                "profit": 23.28
+            },
+            {
+                "product": "Nestle Crunch Dibs",
+                "profit": 21.24
+            }
+        ],
+        "Lincoln Hotel (Lincoln Hotel)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 121.98
+            },
+            {
+                "product": "JavaOne French Roast Pod - 200ct",
+                "profit": 75.15
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 71.29
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 70.36
+            },
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 56.37
+            }
+        ],
+        "Maritime Institute Training Resources (Training Resource Ltd)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 155.96
+            },
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 28.38
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Quality Inn & Suites Anaheim Maingate  (Quality Main Gate)": [
+            {
+                "product": "Dark Colombian Blend Coffee Concentrate",
+                "profit": 117.68
+            },
+            {
+                "product": "Juice Pack Orange Premium 100%",
+                "profit": 106.76
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Quality Inn & Suites Los Angeles Airport - LAX  (Quality Inn Lax (Comfort))": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 128.07
+            },
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 15.73
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Quality Inn Long Beach - Signal Hill  (Quality Inn Signal Hill)": [
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 139.86
+            },
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 118.76
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Quality Inn Near Hollywood Walk of Fame (Quality Inn Near Hollywood Walk of Fame)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 264.9
+            },
+            {
+                "product": "Folgers Special Reserve 1.25LT",
+                "profit": 114.16
+            },
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 113.98
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Ramada by Wyndham Hawthorne - LA Stadium (Ramada by Wyndham Hawthorne - LA Stadium)": [
+            {
+                "product": "Dark Colombian Blend Coffee Concentrate",
+                "profit": 123.6
+            },
+            {
+                "product": "Dark Colombian Blend Decaf Coffee Concentrate",
+                "profit": 60.2
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Ramada by Wyndham San Diego Airport  (Ramada Ltd Rosecrans)": [
+            {
+                "product": "Juice Pack Orange Premium 100%",
+                "profit": 126.42
+            },
+            {
+                "product": "Dark Colombian Blend Coffee Concentrate",
+                "profit": 117.68
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 53.37
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Rodeway Inn Near Melrose Ave (Rodeway Vine St La)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 54.37
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 48.93
+            },
+            {
+                "product": "Folgers Special Reserve 1.25LT",
+                "profit": 14.7
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "San Clemente Inn (GPR San Clemente Inn)": [
+            {
+                "product": "Woodbury & Co Bath Bar 1.2 fl.oz/35g - 400ct",
+                "profit": 27.83
+            },
+            {
+                "product": "Woodbury & Co Clean Soap 1 fl oz/28g - 500ct",
+                "profit": 13.7
+            },
+            {
+                "product": "Subsidy - Other",
+                "profit": 0.0
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Stanford Court Skilled Nursing & Rehab Center  (Stanford Court Nursing Center)": [
+            {
+                "product": "Bag In Box Red Cranberry 3 GAL",
+                "profit": 46.79
+            },
+            {
+                "product": "Bag In Box Apple 100% 3 GAL",
+                "profit": 44.57
+            },
+            {
+                "product": "Bag In Box Orange Blend 100% 3 GAL",
+                "profit": 38.11
+            },
+            {
+                "product": "Bag In Box Diet Fruit Punch 3 GAL",
+                "profit": 35.0
+            },
+            {
+                "product": "Bag In Box Nectar Thickened Water 3 GAL",
+                "profit": 14.52
+            }
+        ],
+        "Super 8 by Wyndham North Hollywood (Super 8 by Wyndham North Hollywood)": [
+            {
+                "product": "Juice Pack Orange Blend 100%",
+                "profit": 141.91
+            },
+            {
+                "product": "Folgers Special Reserve 1.25LT",
+                "profit": 108.23
+            },
+            {
+                "product": "Juice Pack Apple 50%",
+                "profit": 61.47
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "SureStay Plus by Best Western Upland (Surestay Plus BW By Best Western Western Upland)": [
+            {
+                "product": "Folgers Special Reserve 2LT",
+                "profit": 73.77
+            },
+            {
+                "product": "Juice Pack Strawberry Kiwi Nourish Water",
+                "profit": 64.31
+            },
+            {
+                "product": "Juice Pack Passion Orange Guava",
+                "profit": 58.29
+            },
+            {
+                "product": "Folgers Colombian Decaf 1.25LT",
+                "profit": 17.43
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Temecula Healthcare Center (Temecula Healthcare Center)": [
+            {
+                "product": "Bag In Box Strawberry Kiwi 3 GAL",
+                "profit": 127.95
+            },
+            {
+                "product": "Dark Colombian Blend Coffee Concentrate",
+                "profit": 58.84
+            },
+            {
+                "product": "Dark Colombian Blend Decaf Coffee Concentrate",
+                "profit": 57.79
+            },
+            {
+                "product": "Juice Pack Apple 100%",
+                "profit": 43.04
+            },
+            {
+                "product": "Bag In Box Apple 100% 3 GAL",
+                "profit": 41.4
+            }
+        ],
+        "Tungsten Automation (Tungsten Automation Formerly Kofax Inc)": [
+            {
+                "product": "Crystal Geyser 16.9oz",
+                "profit": 79.2
+            },
+            {
+                "product": "Bright Tea Company English Breakfast",
+                "profit": 40.83
+            },
+            {
+                "product": "Bright Tea Company Green with Jasmine",
+                "profit": 40.49
+            },
+            {
+                "product": "Alterra Coffee Sumatra",
+                "profit": 38.4
+            },
+            {
+                "product": "Pepsi 12oz",
+                "profit": 7.74
+            }
+        ],
+        "Villa Rancho Bernardo (Villa Rancho Bernardo)": [
+            {
+                "product": "Seattle Best Portside Ground Decaf Coffee - 6ct",
+                "profit": 108.66
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ],
+        "Wave Crest Resort  (GPR Wave Crest Resort)": [
+            {
+                "product": "Woodbury Dispenser Body Wash 12.85oz 40ct",
+                "profit": 31.12
+            },
+            {
+                "product": "Fuel Surcharge",
+                "profit": 0.0
+            }
+        ]
+    }
+}
